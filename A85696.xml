@@ -1,0 +1,739 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strena Vavasoriensis, a Nevv-Years-gift for the Welch itinerants, or a hue and cry after Mr. Vavasor Powell, metropolitan of the itinerants, and one of the executioners of the Gospel, by colour of the late Act for the propagation thereof in Wales; as also a true relation of his birth, course of life, and doctrines; together with a vindication of several places of Scripture wrested and abused, against the present government, and all publick ministers of this nation. His hymn sung in Christ-Church London; with an antiphona there unto; and a lively description of his propagation.</title>
+            <author>Griffith, Alexander, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85696</idno>
+            <idno type="STC">Wing G1988</idno>
+            <idno type="STC">Thomason E727_14</idno>
+            <idno type="STC">ESTC R19795</idno>
+            <idno type="EEBO-CITATION">99860743</idno>
+            <idno type="PROQUEST">99860743</idno>
+            <idno type="VID">166824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166824)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E727[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strena Vavasoriensis, a Nevv-Years-gift for the Welch itinerants, or a hue and cry after Mr. Vavasor Powell, metropolitan of the itinerants, and one of the executioners of the Gospel, by colour of the late Act for the propagation thereof in Wales; as also a true relation of his birth, course of life, and doctrines; together with a vindication of several places of Scripture wrested and abused, against the present government, and all publick ministers of this nation. His hymn sung in Christ-Church London; with an antiphona there unto; and a lively description of his propagation.</title>
+                  <author>Griffith, Alexander, d. 1690.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.L.,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Alexander Griffith.</note>
+                  <note>Annotation on Thomason copy: "Jan. 30 1653"; the 4 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Powell, Vavasor, 1617-1670 --  Early works to 1800.</term>
+               <term>Wales --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-02</date>
+            <label>Robyn Anspach</label>Sampled and proofread</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166824:1" rendition="simple:additions"/>
+            <p>
+               <hi>Strena Vavaſorienſis,</hi> A NEVV-YEARS-GIFT FOR THE WELCH ITINERANTS, Or a HUE and CRY after Mr. <hi>VAVASOR POWELL, Metropolitan</hi> of the <hi>Itinerants,</hi> and one of the <hi>Executioners</hi> of the <hi>Goſpel,</hi> by colour of the late <hi>Act</hi> for the <hi>Propagation</hi> thereof in <hi>Wales;</hi> AS ALSO A true Relation of his Birth, Courſe of Life, and Doctrines; TOGETHER WITH A Vindication of ſeveral places of Scripture wreſted and abuſed, againſt the preſent Government, and all publick Mini<g ref="char:EOLhyphen"/>ſters of this Nation.</p>
+            <p>
+               <hi>His Hymn</hi> Sung in <hi>Chriſt-Church London;</hi> With an <hi>Antiphona</hi> there<g ref="char:EOLhyphen"/>unto; and a lively <hi>Deſcription</hi> of his <hi>Propagation.</hi>
+            </p>
+            <q>
+               <l>Raro antecedentem Sceleſtum</l>
+               <l>Sequitur pede Poena claudo.</l>
+            </q>
+            <q>
+               <bibl>Pro. 16.5.</bibl> Anſwer a Fool according to his folly; leſt he be wiſe in his own conceit.</q>
+            <q>
+               <bibl>Gen. 4.14.</bibl> I ſhall be a Fugitive and a Vagabond in the Earth, and it ſhall come to paſs, that every one that findeth me, ſhall ſlay me.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F.L.</hi> 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:166824:2"/>
+            <pb facs="tcp:166824:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou muſt be pleaſed not to wonder that our <hi>Cry</hi> is ſo loud, for we beat on a ſtrong <hi>Queſt,</hi> and muſt hunt <hi>dry<g ref="char:EOLhyphen"/>foot</hi> after Mr. <hi>V.P.</hi> who is the <hi>Subject</hi> of this <hi>Diſcourse;</hi> a man that hath paſ<g ref="char:EOLhyphen"/>ſed by no <hi>Perſon</hi> or <hi>Profeſsion</hi> but hath either vilified the one or traduced the other: His <hi>Cruelties</hi> have been ſo immane, and his <hi>Cheats</hi> ſo frequent and obvious, that we ſhould undertake too great a task to purſue them all, having with his <hi>Errors</hi> and <hi>Blaſ<g ref="char:EOLhyphen"/>phemies</hi> robbed <hi>God</hi> of his <hi>Glory, Chriſt</hi> of his <hi>Honour,</hi> the <hi>Scripture</hi> of her <hi>Truth,</hi> the <hi>Church</hi> of her <hi>Miniſtery,</hi> and the <hi>Chriſtian People</hi> of our <hi>Nation,</hi> of the <hi>Comfort</hi> of <hi>Chriſts bleſſed Ordinances,</hi> every way endeavouring to undermine the very Fabrick both of this Church and State, ſo that the <hi>Hue</hi> and <hi>Cry</hi> is great. You muſt not expect any Curiouſity in the ſtile, being the Drol<g ref="char:EOLhyphen"/>leries only of his own brain, and the reiterating of the paſſages of his own obſcean &amp; violent diſcour<g ref="char:EOLhyphen"/>ſes, which may not with verity be Metamorphoſed from their firſt ſhape; here is not a paſſage falſly re<g ref="char:EOLhyphen"/>lated, nor malitiouſly aggravated, and though <hi>All</hi>
+               <pb facs="tcp:166824:3"/>
+that is here is <hi>True,</hi> yet <hi>All</hi> that is true, is not here told, for we purpoſely pretermit many things, that we may <hi>reſerve</hi> more in ſtore. We found out the ſent of ſome part of his <hi>Doctrin in Wales,</hi> and here in <hi>London</hi> more bitterneſs of his <hi>Seditions,</hi> for which he was 3 times committed to the cuſtody of the <hi>Meſſengers</hi> attending <hi>His Higneſs Council,</hi> and being thence with great clemency releaſed, he became as wild <hi>Actaeon</hi> (transformed into the ſhape of a Deer) and knew not where to betake himſelf leſt he ſhould be torn by his own dogs.</p>
+            <p>
+               <note place="margin">Ovid met. lib. 3.</note>
+               <hi>Quid faciat? Repetatne domum, et Regalia tecta, An lateat Sylvis? timor hoc, pudor impedit illud.</hi>
+            </p>
+            <p>He was afraid to ſtay here, and aſhamed to re<g ref="char:EOLhyphen"/>turn <hi>home;</hi> but being gone he is much lamented by his <hi>brethren</hi> for betraying their truſt, and more con<g ref="char:EOLhyphen"/>demned by all honeſt men for violating his pro<g ref="char:EOLhyphen"/>miſe, in continuing (as we underſtand) as buſie and violent in the Country, as ever he was here, a<g ref="char:EOLhyphen"/>gainſt this preſent Government: whoſoever plea<g ref="char:EOLhyphen"/>ſeth to make ſearch after him, may ſoon know him by his Characteriſtical marks, herein truly ex<g ref="char:EOLhyphen"/>preſſed. I am ſure you ſhall not find him idle.</p>
+            <p>
+               <note place="margin">Virg. Ecl.</note>
+               <hi>Nam ſi non aliquâ nocuiſſet, mortuus eſſet.</hi>
+            </p>
+            <p>Let us intreat your patience in tracing his foot<g ref="char:EOLhyphen"/>ſteps, and the Lord preſerve you from his wayes:</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166824:3"/>
+            <head>A NEVV-YEARS-GIFT FOR The Welch Itinerants, Or a HUE and CRY after Mr. <hi>VAVASOR POWELL.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F you will have firſt his Pedigree blazed, he was the<note n="1" place="margin">His Birth.</note> Grand-child of one <hi>William Vavaſor</hi> of <hi>Newtown</hi> in <hi>Montgomeryſhire,</hi> a man freſh in our memory for his hyperbolical diſcourſes, ſo that by deſcent he hath not much degenerated from his Anceſtors. This old man had a Daughter named <hi>Penelope,</hi> a Lady not altogether as Chaſt as <hi>Ulyſſes</hi> his Wife, who gained more by the trade of Tipling than Spinning, And this Goſſip was the Mother of our young <hi>Donatus.</hi> She was married to one <hi>Howel</hi> the poor Ale man of <hi>Knwcklas</hi> in <hi>Radnorſhire,</hi> and a badger of Oatmeal, but <hi>Non genus aut proavos</hi> — we like Mr. <hi>Vavaſor</hi> never the worſe for that. They lived long in that houſe of no good re<g ref="char:EOLhyphen"/>port, and the young Gentleman was no great probationer in Chriſts School, by his own confeſſion (during his Minority) be<g ref="char:EOLhyphen"/>ing willing to approve of all games, were they never ſo wanton or vile, for his Mother or Siſters livelyhood. But tired at length<note n="2" place="margin">Educa<g ref="char:EOLhyphen"/>tion.</note> with walking their Gueſts horſes, and finding no great gain at ſuch a petty Ale-houſe, he was elevated in his thoughts for higher pre<g ref="char:EOLhyphen"/>ferment,
+<pb n="2" facs="tcp:166824:4"/>
+and ſo became an Hoſtler (I would ſay Groom) to Maſter <hi>Iſaack Thomas,</hi> an Inn-keeper and Mercer in <hi>Biſhop-Caſtle</hi> in <hi>Shropſhire.</hi>
+            </p>
+            <p>Alas! it was impoſſible that ſo high and generous a ſpirit ſhould be captivated to horſes heels; The hopefull young man continued not long in rubbing on that Trade, but began to be ſo eloquent with <hi>Welcome Gentlemen,</hi> that at laſt, together with the benefit of his <hi>Maſters Notes,</hi> he preſumed to open Scriptures, and being then taken up by a great <hi>Gamaliel,</hi> he was for a good ſpace (you may think) well Educated and Principled at his feet.</p>
+            <p>
+               <note n="3" place="margin">Marri<g ref="char:EOLhyphen"/>age.</note>This Gallant Spark lived a while (though not purely chaſt, yet) a ſingle life; but at laſt the ſtrength of his <hi>Fleſh</hi> prevailed over the weakneſſe of his <hi>Spirit,</hi> being then <hi>Munkie</hi> proud, he was ſo ta<g ref="char:EOLhyphen"/>ken with ſweet and dear Miſtres <hi>Quarrel,</hi> ſometimes a walking Pedlar, and ſeller of Hot-waters in <hi>Preiſteign</hi> in <hi>Radnorſhire,</hi> wherewith he was often <hi>Comforted,</hi> that his inflamed ſpirit did revive; and her husband ſhortly deceaſing, though his dead Corps had not lain a <hi>fortnight</hi> in the <hi>Grave,</hi> they being ſweetly en<g ref="char:EOLhyphen"/>amored the one with the other, ſhe proves to be his Conſort, and ſo he <hi>Carries</hi> her as a <hi>Dear Siſter about,</hi> though her little <hi>Child,</hi> lately deprived of his <hi>Father,</hi> and now robbed of his <hi>Mo<g ref="char:EOLhyphen"/>ther,</hi> raiſed the <hi>Hue</hi> and <hi>Cry</hi> after them; but <hi>wantonneſſe</hi> admits neither of <hi>delays</hi> nor <hi>intreaties.</hi>
+            </p>
+            <p>Here is ſweet Amity and Conjuntion, a couple well met and joyned together, a <hi>Walking Pedler,</hi> and an <hi>Itinerary Preacher,</hi> both very expert in their <hi>Trades.</hi>
+            </p>
+            <p>
+               <note n="4" place="margin">Courſe of life.</note>His Proficiency grew on, and no ſooner becomes he a <hi>School<g ref="char:EOLhyphen"/>maſter,</hi> but takes upon him the habit of <hi>Sir John;</hi> and leſt without <hi>Ordination</hi> (under the <hi>Epiſcopal Government</hi>) he might incur the danger of <hi>ſuſpenſion,</hi> borroweth of an old decayed <hi>Miniſter</hi> (his neer Kinſman) his <hi>Letters of Orders,</hi> razeth out the other, and inſerts his own name, and under Colour of theſe Counterfeit <hi>Let<g ref="char:EOLhyphen"/>ters miſſive,</hi> he goes unſent, and begins to thunder out of the Pulpits (as though he had been a fiery Spirit raiſed out of Hel:) but by reaſon of his <hi>inconformity,</hi> and the many <hi>Errors</hi> which he broached, his Calling was queſtioned, and the <hi>Orders</hi> being well ſcanned, were found <hi>Spurious</hi> and <hi>Counterfeit,</hi> and he bound
+<pb n="3" facs="tcp:166824:4"/>
+to appear at the next great <hi>Seſſions</hi> to be held for that County of <hi>Radnor,</hi> where appearing, and indicated for non-Conformity, forging of Orders, and Seditious Doctrine, was with much adoe reprieved from the <hi>Gallowes,</hi> and very neer to undergo the danger of a true Suſpenſion.</p>
+            <p>The Modeſty of the man was ſuch, that with old <hi>Vulpone</hi> (having<note n="5" place="margin">Remo<g ref="char:EOLhyphen"/>val to <hi>En<g ref="char:EOLhyphen"/>gland.</hi>
+               </note> eſcaped thus narrowly) he is reſolved thence-after to harras and prey abroad, and ſo, for meer ſhame, his Country is rid of him, and he makes his tranſmigration into <hi>England:</hi> but I ſhall paſſe over with ſilence his great Cheating and Seducing of poor ſouls in <hi>Kent</hi> and <hi>Eſſex,</hi> where he continued, and ſpread his Errors diverſe years, and <hi>ſparingly</hi> diſcover his return, and trading again among his own <hi>Natives</hi> and <hi>Countrymen.</hi>
+            </p>
+            <p>No ſooner did theſe late troubles, and inteſtine Wars break forth<note n="6" place="margin">Return to <hi>Wales</hi> to <hi>Propa<g ref="char:EOLhyphen"/>gate.</hi>
+               </note> in <hi>England,</hi> but as ſoon as <hi>Wales</hi> was reduced under the power of the Parliament, he fled thither, not only of any <hi>affection</hi> to their <hi>Cauſe,</hi> but for his own <hi>deſigns, ſecurity,</hi> and <hi>advantage,</hi> and was as active and vigorous as the perpetual <hi>motion</hi> of a tongue, or the invention of a wicked brain could poſſible be, for the rooting out of the <hi>Miniſtery,</hi> branding the Calling as <hi>Anti-Chriſtia</hi> and <hi>rendring</hi> the <hi>perſons</hi> by all ſcandalous aſperſions, to become <hi>o<g ref="char:EOLhyphen"/>dious</hi> to the people. And for the more ſpeedy effecting thereof he, together with others of the ſame <hi>Cut,</hi> (who,<note place="margin">Tunc tua res agitur paries cum proximus ardet Vealegon.-</note> if they become more meek and modeſt, may peradventure prove nameleſſe) promoted the <hi>Act for Propagation of the Goſpel in Wales,</hi> ſo really intended by the pious Care and Charity of thoſe <hi>Members</hi> of <hi>Parliament;</hi> yet by the unworthy <hi>managing</hi> thereof by theſe <hi>men,</hi> it proved like another <hi>Epheſian</hi> Image of <hi>Diana</hi> (though believed to be deſcen<g ref="char:EOLhyphen"/>ded from heaven) for the benefit only of this <hi>Demetrius,</hi> and his <hi>tradeſmen,</hi> the <hi>Silver Shrines</hi> taking up the whole devotion of that <hi>Worſhip.</hi>
+            </p>
+            <p>A true deſcription whereof you ſhall (God willing) in the latter end herein find to be lively delineated.</p>
+            <p>For his incouragement in the work, he had his <hi>Stipend</hi> and <hi>Sala<g ref="char:EOLhyphen"/>ry</hi> of <hi>one hundred pounds</hi> a year allowed unto him out of <hi>Prebends,</hi>
+               <note n="7" place="margin">Stipend</note> 
+               <hi>Dean</hi> and <hi>Chapters,</hi> and other Tithes, beſides the vaſt Emolu<g ref="char:EOLhyphen"/>ments of many other <hi>Sequeſtred Benefices</hi> in <hi>North-Wales,</hi> which were, and continue dayly paid unto him, and received <hi>Tickets</hi>
+               <pb n="4" facs="tcp:166824:5"/>
+from the Commiſſioners in <hi>South-Wales</hi> for the <hi>like Sum,</hi> beſides the <hi>wages</hi> of divers of the <hi>Itinerants</hi> and <hi>School-maſters,</hi> who are but his <hi>Journey-men</hi> and <hi>Stipendaries.</hi>
+            </p>
+            <p>
+               <note n="8" place="margin">Great<g ref="char:EOLhyphen"/>neſs and wealth.</note>And yet this man hath the Impudency to Proteſt and Vow <hi>be<g ref="char:EOLhyphen"/>fore God and men</hi> (as his uſual manner is in his Sermons) that he never received a <hi>penny</hi> for his Pains and Preaching.</p>
+            <p>Thus the poor <hi>Groom</hi> is become great and wealthy, having purchaſed ſome of the late Kings, <hi>Fee-farm Rents</hi> and <hi>Lordſhips,</hi> though for the moſt part in another mans name: And to perpetu<g ref="char:EOLhyphen"/>ate his memory (as wicked <hi>Abſalom being Son-leſſe reared up his Pillar in the Kings Dale</hi>) hath built for himſelf a very <hi>fair</hi> and <hi>ſumptuous houſe</hi> in <hi>Kerry</hi> within the County of <hi>Montgomery.</hi> We are ſure that old <hi>Howel</hi> (his Father) his <hi>Inheritance</hi> which he ſold in <hi>Kuwcklas,</hi> could never had made ſuch <hi>Purchaſes</hi> and <hi>Buil<g ref="char:EOLhyphen"/>dings.</hi>
+            </p>
+            <p>
+               <note n="9" place="margin">Itinera<g ref="char:EOLhyphen"/>ry way.</note>Being thus incouraged and warmed to the work, he rides his <hi>Itinerary Stages</hi> throughout to ſome purpoſe, and what a rout he and his <hi>Tunto</hi> made of all the Miniſters in <hi>Wales</hi> (except ſome few, who either fed them, depended upon them, or had ſome Correſpondence with them) we make no queſtion but ſome <hi>abler Pens</hi> will ſhortly ſet forth to the uttermoſt.</p>
+            <p>However, becauſe he is now under <hi>File,</hi> give us leave briefly to <hi>Limn</hi> forth the manner of their <hi>Propagation.</hi>
+            </p>
+            <p>
+               <note n="10" place="margin">And manner of <hi>Propa<g ref="char:EOLhyphen"/>gation.</hi>
+               </note>The great <hi>Cabal</hi> of the <hi>Itinerants</hi> inſtruction was to render the Miniſters perſons <hi>odious,</hi> and their <hi>Calling</hi> in its very baſis to be <hi>Anti-christian,</hi> and ſo in it ſelf <hi>unlawfull</hi> and <hi>uſeleſſe,</hi> and none to be protected or Countenanced by the <hi>Civil Magiſtrate.</hi> This without any greater Engin was inſtrumental enough to batter and <hi>eject</hi> them out of their <hi>Freeholds</hi> and <hi>Being,</hi> without any reſpect either to their <hi>fidelity</hi> and <hi>ability</hi> in their <hi>Teachings,</hi> or <hi>sobriety</hi> in their Converſations. And in what a <hi>narrow ſtreight</hi> they were, ei<g ref="char:EOLhyphen"/>ther to be wholy <hi>deprived</hi> of all <hi>ſubſiſtence</hi> for the maintenance of themſelves and Families, or turn <hi>Apoſtataes</hi> to their <hi>Ordination,</hi> we leave to that moſt ingenous and modeſt Cenſure of a <hi>Noble Mem<g ref="char:EOLhyphen"/>ber</hi> of the <hi>Houſe,</hi> in his <hi>Anſwer</hi> to a <hi>Narrative</hi> of the <hi>Cauſe</hi> and manner of the <hi>Diſſolution</hi> of the laſt <hi>Parliament.</hi>
+            </p>
+            <p n="2">2. Though he and the Itinerants cryed down Tithes as <hi>Moſaical</hi> Ceremonies and <hi>Anti-Chriſtian,</hi> yet he and they, or ſuch as are
+<pb n="5" facs="tcp:166824:5"/>
+their <hi>Agents,</hi> have had the diſpoſing of above <hi>Forty Thouſand pounds</hi> a year in Tithes, Gleabs, impropriations, Rents reſerved, and other eccleſiaſtical benefices and promotions, for above four years laſt paſt in the thirteen Counties of <hi>Wales,</hi> far surmounting the ſum of <hi>One Hundred</hi> and <hi>Threeſcore Thousand</hi> pounds, and as yet to our knowledge unaccounted for, and what account is given to the State for the Tenths, ſince the Act of Propagation of all eccleſia<g ref="char:EOLhyphen"/>ſtical promotions in <hi>Wales,</hi> we refer to the better knowledge of that worthy Gent. Mr. <hi>Baker,</hi> Maſter of the firſt fruits <hi>Office.</hi>
+            </p>
+            <p n="3">3. That notwithſtanding all this great <hi>Revenue</hi> by them recei<g ref="char:EOLhyphen"/>ved, there are above <hi>ſeven hundred</hi> Pariſhes in the thirteen Coun<g ref="char:EOLhyphen"/>ties <hi>unſupplied</hi> with any <hi>Miniſters,</hi> who (we are confident) dare <hi>own</hi> the <hi>charge,</hi> and you may ride <hi>ten</hi> or <hi>twenty miles</hi> on the <hi>Lords day,</hi> where there is <hi>twenty Churches,</hi> and not <hi>one door</hi> opened, and for moſt of the <hi>Itinerants,</hi> they are ſuch <hi>ignorant perſons,</hi> that they can neither <hi>read,</hi> nor <hi>underſtand Engliſh,</hi> nay ſome of them more <hi>ſcandalous</hi> than any of the ejected Miniſters, and all of them in their Principles and Doctrines <hi>deſtructive</hi> to <hi>Government.</hi>
+            </p>
+            <p>But we will not digreſſe from Mr. <hi>Vavaſor:</hi>
+               <note n="11" place="margin">His Preach<g ref="char:EOLhyphen"/>ing.</note> The <hi>Asp</hi> receives her poyſon from the <hi>Viper,</hi> and what he ſpits theſe lick up; We ſhall give you an account of ſome of his <hi>baſe</hi> and <hi>ſpurious Doctrines,</hi> that by <hi>his</hi> you may underſtand <hi>theirs.</hi>
+            </p>
+            <p>Now his chief work is to preach and advance Chriſts <hi>Perſonal Reign</hi> here on <hi>Earth,</hi>
+               <note n="12" place="margin">falſe Doctrines</note> being the Antient Errour and Fopperie of the <hi>Chiliasts</hi> or <hi>Millenaries,</hi> hiſſed and exploded out of the <hi>Church of Chriſt</hi> in the very <hi>Infancy</hi> thereof. And what is his <hi>end</hi> and <hi>in<g ref="char:EOLhyphen"/>tention</hi> therein, may be conſpicuous and apparent (as his wild diſ<g ref="char:EOLhyphen"/>courſes againſt the <hi>preſent Government</hi> under his <hi>Highneſs Prote<g ref="char:EOLhyphen"/>ction,</hi> have evidently diſcovered) to be the <hi>Deſtruction</hi> of the <hi>Ma<g ref="char:EOLhyphen"/>giſtracy of England,</hi> as well as the <hi>Miniſtery</hi> of <hi>Wales.</hi>
+            </p>
+            <p>At <hi>Welſh Pool,</hi> a Town in <hi>Mountgomery-ſhire,</hi> he taught. <hi>That Christ was to reign a thouſand years here upon the Earth.</hi> And <hi>that he was to ſit ne<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t unto him</hi> Behold the intollerable pride of this Creature to extoll himſelf upon the right hand of his Creator. We ſhould think that our Saviours reprof to <hi>Zebedees ſons</hi> ſhould cor<g ref="char:EOLhyphen"/>rect if not ſatisfie this Ambition; Sobriety ſhould have uſhered him to beſeech a place at the <hi>Footſtool</hi> of his <hi>Tribunal,</hi> and in Cha<g ref="char:EOLhyphen"/>rity to give ſome room for the poor <hi>despiſed Miniſters,</hi> to appear
+<pb n="6" facs="tcp:166824:6"/>
+with him, though here as yet they found neither Comfort nor mer<g ref="char:EOLhyphen"/>cy at Mr. <hi>Vavaſors</hi> hands.</p>
+            <p>At <hi>Llandetty</hi> in <hi>Brecknock ſhire</hi> he preached, <hi>That Chriſt was already come in the fleſh the ſecond time, and that at</hi> London <hi>a Girl of twelve years old, told her mother, that ſhe ſaw him in the Cham<g ref="char:EOLhyphen"/>ber; and ſaid, that a Godly man related this unto him, and knew it to be true, and they that heard him that day ſhould ſhortly ſee him too.</hi>
+            </p>
+            <p>And one <hi>John Davies</hi> his Proſelyle and Journey man in <hi>Mount<g ref="char:EOLhyphen"/>gomery ſhire,</hi> having received the ſame by Tradition from him, <hi>told very lately to a juſtice of Peace of that Country, That he had ſeen Chriſt, and was to go the next morning to ſee him again:</hi> And being demanded by the Justice, <hi>what manner of man he was,</hi> replyed, <hi>that he was a little old man, with a ſmall grey beard.</hi>
+            </p>
+            <p>And ſo Mr. <hi>Williams</hi> an Itinerant of Mr. <hi>Vavaſors</hi> approbation, preached in a Sermon in <hi>Monmouth-ſhire, That Chriſt Ieſus was ſuch another man as old</hi> Rice Williams <hi>of</hi> Newport, one of the Com<g ref="char:EOLhyphen"/>miſſioners for the <hi>Propagation,</hi> and that he had <hi>a large grey beard.</hi> Thus it ſeems the Tithes are their God, and the <hi>Propagators</hi> that pay them their ſalaries out of the Tithes are their <hi>Chriſts.</hi>
+            </p>
+            <p>At the ſame Town of <hi>Pool</hi> Mr. <hi>Powel</hi> openly delivered before the Bailiff, and the reſt of that Corporation, <hi>That let them Repent, or not Repent, both Prieſt and People were all damned,</hi> And did then abſolutely declare, <hi>That Chriſt had no Church either in</hi> England <hi>or</hi> Wales, <hi>but what he and his aſſociats had gathered for him.</hi> And in a diſputation with Mr. <hi>A.G.</hi> in <hi>Keington</hi> in <hi>Herefordſhire,</hi> he was driven to that <hi>pinch</hi> as to maintain, <hi>That the Nation of</hi> England <hi>was a Nation of Unbelievers; And that the words of Chriſt in 13th. Chap. of</hi> Matthew, <hi>concerning the tares and drag-net were contrary to other Scriptures.</hi>
+            </p>
+            <p>At <hi>Manavon</hi> in <hi>Mountgomery</hi> he taught, <hi>That all our Fore-fa<g ref="char:EOLhyphen"/>thers were damned, blasphemouſly abuſing</hi> that place of <hi>Scripture</hi> to confirm his <hi>uncharitable opinion</hi> (I Cor. 15.18.) <hi>Then they alſo which are fallen aſleep in Chriſt are periſhed.</hi> A wretched and mali<g ref="char:EOLhyphen"/>cious <hi>Gloſs,</hi> to <hi>acknowledge</hi> our fore-fathers to <hi>die</hi> in the <hi>Faith</hi> of <hi>Chriſt Ieſus,</hi> and the glorious hope of his <hi>Reſurrection,</hi> and yet that they ſhall <hi>eternally periſh:</hi> Whereas the Apoſtle in that Chap<g ref="char:EOLhyphen"/>ter by convincing Arguments confirms the <hi>Doctrine</hi> of our <hi>Reſur<g ref="char:EOLhyphen"/>rection</hi>
+               <pb n="7" facs="tcp:166824:6"/>
+by the <hi>Reſurrection</hi> of <hi>Chriſt,</hi> which he had fully proved both by forcible <hi>Reaſons</hi> and alſo by <hi>Signs</hi> and <hi>Wonders,</hi> which if not true as he had preached, then the <hi>Corinthians</hi> vainly believed <hi>Pauls Preaching,</hi> and dying in the <hi>Faith of Chriſt</hi> would be ineffe<g ref="char:EOLhyphen"/>ctual unto them, If they <hi>who died</hi> therein <hi>Eternally periſhed.</hi>
+            </p>
+            <p>At <hi>Baryw</hi> in the ſame Countie he taught, <hi>That Baptiſm was ne<g ref="char:EOLhyphen"/>ver ordained for the remiſſion of ſins,</hi>
+               <note place="margin">1 Pet. 3 21. Tit. 3 5. Act 22 16.</note> contrary to ſeveral places of Scripture, which affirms, that <hi>Baptiſm ſaves us,</hi> that it is the <hi>La<g ref="char:EOLhyphen"/>var</hi> or waſhing of <hi>Regeneration,</hi> which though all this be <hi>Analo<g ref="char:EOLhyphen"/>gically</hi> ſpoken, being the <hi>Obſignation</hi> of the <hi>thing ſignified</hi> by the <hi>ſign,</hi> yet in the <hi>true uſe</hi> thereof the <hi>Exhibition</hi> and <hi>Perception</hi> of the <hi>ſign</hi> and <hi>thing</hi> is conjoyned. But this Mr. <hi>Vavaſors</hi> Ordinary uſe to <hi>viliſie</hi> that ſacred <hi>Ordinance,</hi> as he always doth by his <hi>Common recital</hi> of that place of Scripture,<note place="margin">Gal. 5.6, 15.</note> 
+               <hi>In Chriſt Ieſus neither Circum<g ref="char:EOLhyphen"/>ciſion availeth any thing,</hi> nor <hi>uncircumciſion,</hi> but <hi>a new Creature,</hi> which he and all his followers ſcornfully <hi>apply to the Contempt of Baptiſm,</hi> In which place is only meant, That the <hi>Iewes</hi> called to the <hi>Faith</hi> of <hi>Chriſt</hi> after their <hi>Circumciſion,</hi> gain nothing by their <hi>former Circumciſion,</hi> nor the unbelieving <hi>Gentiles</hi> being called, loſe any thing by their <hi>uncircumſion,</hi> for ſeeing in Chriſt the <hi>Cir<g ref="char:EOLhyphen"/>cumciſion</hi> is <hi>ſpiritual,</hi> there is no need of <hi>carnal.</hi>
+            </p>
+            <p>At <hi>Guilſfield</hi> in the ſame County he preached, <hi>That Chriſt was not the Redeemer of the World,</hi> and being reprehended for his blaſ<g ref="char:EOLhyphen"/>phemie, anſwerd, <hi>that they ſhould not always obſerve what he ſaid,</hi> for <hi>he that ſpeaks much</hi> (ſaid he) <hi>muſt ſpeak ſome things a<g ref="char:EOLhyphen"/>miſs.</hi>
+            </p>
+            <p>And how ridiculous and <hi>obſeene</hi> diverſe of his paſſages have been,<note place="margin">13 His obſceni<g ref="char:EOLhyphen"/>ty. Trefeg<g ref="char:EOLhyphen"/>lwys, Llanbryn-Main, Machyn<g ref="char:EOLhyphen"/>leth.</note> we are very loath to deliver to chaſt Ears, yet we muſt beſeech your Patience to theſe <hi>true Relations.</hi>
+            </p>
+            <p>In diverſe pariſh Churches in <hi>Mountgomery ſhire</hi> he delivered in his Sermon this ſtory, That they <hi>were many in Company</hi> travelling towards <hi>London,</hi> and one of them rid on an <hi>Ambling gray horſe,</hi> and meeting another <hi>Company,</hi> where there was a <hi>Gentleman</hi> that rid on the like <hi>colour'd pacing horſe,</hi> when the <hi>one gray Horſe</hi> met the <hi>other,</hi> they stood still, and <hi>made much the one of the other,</hi> and would not part <hi>Company;</hi> even ſo the Saints of God <hi>know one another</hi> by their <hi>paces</hi> and <hi>colours,</hi> and will not <hi>part Company</hi> the one from the other.</p>
+            <p>
+               <pb n="8" facs="tcp:166824:7"/>And how modeſt the Gentleman is, may appear by his <hi>Ob<g ref="char:EOLhyphen"/>ſcene expreſſions</hi> in a Sermon preached at <hi>Llunddynam</hi> in the ſame Country, where being willing to juſtifie a <hi>Siſter,</hi> that had <hi>ſlip<g ref="char:EOLhyphen"/>ped,</hi> becomes her <hi>Compurgator</hi> in <hi>theſe words,</hi> That he called God to witneſſe, He <hi>never ſaw a Saint Occupie or F—a Saint,</hi> which he explained thus in the Welch tongue, <hi>Yr ywf yn Galow Duw yn dîſt, ni welais i yr'ioed Sainct yn myned ar Sainctes.</hi>
+            </p>
+            <p>And one <hi>Richard Powell</hi> Vicar of <hi>Llanigon</hi> in <hi>Brecknock ſhire,</hi> one of the Approvers in the Act for the Propagation of the Goſpel, and <hi>Itinerant</hi> in that County (receiving the ſame by tradition from Mr. <hi>Vavaſor</hi>) hath uſually delivered in his <hi>Sermons</hi> both in <hi>Hereford<g ref="char:EOLhyphen"/>ſhire</hi> and <hi>Brecknock ſhire,</hi> Concerning the <hi>manner</hi> of <hi>Chriſt's</hi> Spirit <hi>entring</hi> into man, that he could not uſe any <hi>ſitter Compariſon,</hi> than, as the <hi>ſeed of Man</hi> entred into the <hi>body</hi> of a <hi>Woman,</hi> ſo the <hi>Spirit of Chriſt</hi> entred into his <hi>head.</hi> And the ſame <hi>Richard Powell</hi> main<g ref="char:EOLhyphen"/>tained, <hi>That God was not Creator of the World,</hi> as was proved againſt him by ſufficient underſtanding Witneſſes, before a worthy, and godly Juſtice of Peace of the County of <hi>Brecon.</hi> And often deli<g ref="char:EOLhyphen"/>vered in his Sermons, <hi>That the Lords Prayer is a rotten Prayer.</hi> This man is a moſt <hi>ſcandalous, ignorant, covetous, deboyſt</hi> fellow; and marched before his Pariſhoners and others againſt Sir <hi>William Waller</hi>'s forces when they were at <hi>Abergavenny,</hi> reading the <hi>Letany</hi> out of the <hi>Common-prayer,</hi> which he carried in his hands; and yet was made an <hi>Approver in the Act,</hi> and receives <hi>Tith in kind</hi> from his <hi>three</hi> neighbouring <hi>Pariſhes.</hi>
+            </p>
+            <p>Mr. <hi>Vavaſor Powell,</hi> to juſtifie another Siſter of his own <hi>Congre<g ref="char:EOLhyphen"/>gation</hi> who had <hi>willfully drowned</hi> her ſelf in <hi>Draw-well</hi> near the <hi>Welch Pool,</hi> delivered publickly in his Sermon there, That ſhe <hi>was a Saint in Heaven,</hi> and they who thought otherwiſe were <hi>wicked</hi> perſons, and <hi>accurſed;</hi> That ſhe came to her end by the <hi>Motion of the Holy Spirit,</hi> and that it hapned oftentimes when the <hi>Saints</hi> are filled with <hi>the Spirit,</hi> they run into <hi>great Pools,</hi> inſtead of <hi>green Meadows,</hi> and ſo <hi>imbracing</hi> their <hi>Saviour</hi> they make an <hi>End</hi> of their <hi>Lives by divine providence,</hi> and there ſoules are <hi>Eternally ſaved.</hi> Surely this <hi>Spirit</hi> poſſeſſed Mr. <hi>Vavaſor</hi> both at <hi>Chriſt-Church</hi> and <hi>Black-friars,</hi> which brought him <hi>three times</hi> into Capt. <hi>Cumpton's hands,</hi> one of the Meſſengers attending His <hi>Highnes Council.</hi> And
+<pb n="9" facs="tcp:166824:7"/>
+brought (as we underſtand) a Gentleman of this City very lately to ſtrech, unleſſe his man (like <hi>Naamans</hi> ſervants) had been more carefull of his Maſters neck than himſelf. Thus the <hi>Circumcellians</hi> of old, when they could not ſollicit others, took pains with their own throats.</p>
+            <p>We muſt not forget his <hi>Compaſſion</hi> and Charity towards men,<note place="margin">14 His Incom<g ref="char:EOLhyphen"/>paſſion</note> and eſpecially towards the <hi>Ejected Ministers</hi> of <hi>Wales,</hi> and their <hi>Children.</hi>
+            </p>
+            <p>In <hi>Llanyrvil</hi> in <hi>Mountgomery ſhire</hi> he taught, That it were a good deed to <hi>cut the throats</hi> of all the <hi>Old Ministers:</hi> And had it not been for the <hi>charity</hi> of ſome few of the <hi>Saints</hi> (as he ter<g ref="char:EOLhyphen"/>med them) it had <hi>been performed long ago.</hi> And to a Gentleman in <hi>Red-Caſtle</hi> that petitioned him for <hi>relief</hi> and maintenance for the <hi>poor Children</hi> of the <hi>Ejected Miniſters,</hi> he anſwered, <hi>That their heads ſhould be daſhed againſt the Walls as Babyloniſh brats,</hi> and <hi>ſo their portions ſhould be paid.</hi>
+            </p>
+            <p>He preacheth and inveigheth moſt bitterly here in <hi>London</hi> againſt <hi>Tithes,</hi> but how vigorouſly he <hi>levies</hi> his <hi>ſalary</hi> in <hi>Wales,</hi> by coun<g ref="char:EOLhyphen"/>tenancing his <hi>Agents</hi> and <hi>Farmours</hi> to gather <hi>Tithes,</hi> may truly appear by ſeveral of his <hi>falſe paſſages</hi> which are too tedious to re<g ref="char:EOLhyphen"/>late; He pretended that the <hi>Godly party</hi> in <hi>Wales</hi> were in danger of their <hi>lives,</hi> and that <hi>two and forty</hi> of them were <hi>ſlain</hi> at the hea<g ref="char:EOLhyphen"/>ring of the <hi>Ejected Miniſters</hi> Sermons; and ſo ſince the Diſſoluti<g ref="char:EOLhyphen"/>on of the <hi>former Parliament,</hi> by theſe falſe and abominable <hi>ſarmiſes,</hi> he obtained a <hi>Commiſſion</hi> for the raiſing of <hi>Forces,</hi> wherewith he did inſultingly <hi>tyrannize</hi> over the poor Inhabitants of that <hi>Nati<g ref="char:EOLhyphen"/>on;</hi> witneſſe his inſolent carriage againſt the laſt years <hi>High She<g ref="char:EOLhyphen"/>riff</hi> of the County of <hi>Mountgomery;</hi> the taking of Mr. <hi>Owens of Machynleth</hi> out of his houſe, and binding him to the Great Seſſi<g ref="char:EOLhyphen"/>ons; his ſeizing upon Mr. <hi>Herbert</hi> of <hi>Dolegrog</hi> without any <hi>cauſe at all,</hi> which ſo affrighted the <hi>Gentlewoman</hi> his <hi>Wife,</hi> that ſhe miſ<g ref="char:EOLhyphen"/>carried of a <hi>Child;</hi> beſides the impriſoning of the diverſe of the <hi>Ejected Miniſters</hi> for diſcharging their <hi>duties</hi> in preaching and maintaining the <hi>truth</hi> of the Goſpel of <hi>Chriſt Jeſus.</hi>
+            </p>
+            <p>And with theſe new raiſed <hi>Troops</hi> inforced the people to pay their <hi>Tithes,</hi> as evidently appeareth in Mr. <hi>Ralph Kinnaſtons</hi> Caſe, a Gentleman of very good worth and quality in that County, whoſe fields with his armed Troops he forcibly entred into, forced the
+<pb n="10" facs="tcp:166824:8"/>
+payments of his Tithes, contrary to former Orders, and unleſſe the mildneſſe and wiſdom of the Gentleman had prevented his fury, it might have been the cauſe of great miſchief and effuſion of Blood, but I believe a Bil of indictment hath been preferred in the great Seſſion already againſt his <hi>Caeſar Borgias</hi> and his <hi>Myrmidons</hi> for a Riot.</p>
+            <p>
+               <note place="margin">15 His Cruelty.</note>If we ſhould relate unto you his <hi>Pride, appreſſions</hi> and <hi>Cruelty,</hi> it would take up too large a volume.</p>
+            <p>He preached at <hi>Welch Pool</hi> publiquely (where finding that few took notes of his Sermons) <hi>That they were proud fellows,</hi> and de<g ref="char:EOLhyphen"/>ſpiſers of <hi>Gods word,</hi> affirming that if <hi>King David</hi> were then <hi>pre<g ref="char:EOLhyphen"/>ſent</hi> the holy <hi>Prophet</hi> would <hi>write his Sermon:</hi> And yet contrary to this Doctrine, at <hi>Chriſt Church</hi> and <hi>Blackfriers</hi> in <hi>London</hi> he fell roughly upon an <hi>ejected Welch Miniſter,</hi> whom he ſuppoſed to have taken <hi>notes</hi> of his <hi>Sermons,</hi> being jealous of his own <hi>Errors,</hi> and a<g ref="char:EOLhyphen"/>fraid to have his <hi>ſeditious ſpeeches</hi> and <hi>falſhood</hi> truly <hi>diſplayed.</hi>
+            </p>
+            <p>At <hi>Guilsfield</hi> aforeſaid he publiquely delivered theſe words, (<hi>viz.</hi>) That in reſpect they had not ſubm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tted <hi>themſelves</hi> to the <hi>Saints</hi> (meaning <hi>himſelf</hi> and his <hi>Congregation</hi>) they ſhould be in a <hi>ſhort time</hi> all deſtroyed with the <hi>Sword,</hi> and that the <hi>War horſes</hi> ſhould wade up to their <hi>rains</hi> of their <hi>bridles</hi> in the <hi>blood</hi> of the ſaid <hi>Pariſhioners,</hi> and of the other <hi>Enemies</hi> of the <hi>Saints,</hi> and doub<g ref="char:EOLhyphen"/>ted not but he ſhould <hi>live to ſee the ſame performed.</hi>
+            </p>
+            <p>
+               <note place="margin">16 His Oppreſ<g ref="char:EOLhyphen"/>ſion</note>His proceedings againſt Mr. <hi>Hugh Lloyd</hi> in <hi>Brecknock</hi> is an evi<g ref="char:EOLhyphen"/>dent teſtimony of his <hi>unspeakable oppreſſion,</hi> whom (being a Gen<g ref="char:EOLhyphen"/>tleman of good eſtate and quality, and ſometimes a <hi>Iuſtice of Peace</hi> of his Countie) he arreſted in that Corporation, impriſoned, and kept in, without bail or mainpriſe, until he paid him <hi>One Hundred pounds,</hi> and this upon a bare <hi>Arreſt,</hi> and none <hi>durſt</hi> bail him.</p>
+            <p>
+               <note place="margin">17 His faithleſſe dealing.</note>And his treacherous dealings with Mr. <hi>Humphrey Iones,</hi> late Bailiff of the Town of <hi>Welch Pool</hi> (which I often mentioned) who is a very diſcreet Gentleman, and of good parts and abilities, are well worth your Obſervation; He being a conſtant hearer of the word, a godly man, and frequently taking both the notes of his Sermons, and of other reverend Divines who were afterwards ejected, denying Mr. <hi>Powell</hi> the Copies which he requeſted, that he might the better frame moſt deſtructive Articles againſt them; the Gentleman (perhaps) not ſo much out of any tenderneſſe to<g ref="char:EOLhyphen"/>ward
+<pb n="11" facs="tcp:166824:8"/>
+them, as out of his reſpects towards him, being unwilling to make manifeſt ſuch ſad <hi>ſtories</hi> and <hi>Blaſphemies</hi> as were there re<g ref="char:EOLhyphen"/>corded out of his own Sermons, did (as that renowned <hi>Conſtantine</hi> the great dealt with the Articles againſt the <hi>Nicene Biſhops</hi>) com<g ref="char:EOLhyphen"/>mit them to the fire, which Mr. <hi>Vavaſor</hi> took in ſuch high con<g ref="char:EOLhyphen"/>tempt, that he maliciouſly framed <hi>threeſcore Articles</hi> to be exhibited the next great Seſſions againſt him, But Mr. <hi>Jones</hi> be<g ref="char:EOLhyphen"/>ing as provident as himſelf had compiled the like, to countermine and repel his; Mr. <hi>Powell</hi> being certified therewith, did by the mediation of Friends agree with the Gent. and that neither of them ſhould exhibite Articles againſt the other; but when <hi>Satur<g ref="char:EOLhyphen"/>day</hi> the laſt day of the Seſſions came, and the Jury being diſchar<g ref="char:EOLhyphen"/>ged, Mr. <hi>Vavaſor</hi> contrary to his promiſe and agreement, being maliciouſly bent to render the Gent. more ſcandalous, and defa<g ref="char:EOLhyphen"/>med, before the honourable Bench and Country, produced (though ineffectually) ſeveral witneſſes againſt him, and amongſt the reſt <hi>one</hi> of his own <hi>Congregation,</hi> a poor man of <hi>Guilſfield,</hi> living upon the Alms of the ſaid Pariſh, whom he had kept the whole week in Town, and fed with <hi>Veniſon:</hi> the fellow being thus inſtructed and fitted for his purpoſe, <hi>ſwore</hi> ſome matters of <hi>Fact</hi> againſt Mr. <hi>Iones,</hi> whereof he ſaid he was <hi>Eye-witneſſe,</hi> and afterwards (upon the Gentlemans requeſt) being demanded by the <hi>Iudge,</hi> whether he <hi>knew</hi> the <hi>man,</hi> he confeſſed, <hi>he did not,</hi> though the Gentleman was <hi>preſent</hi> at the <hi>Bench:</hi> The Honourable Iudge checked Mr. <hi>Powell,</hi> for countenancing ſuch <hi>wicked</hi> and <hi>unworthy proceedings,</hi> whereby Mr. <hi>Jones</hi> was vindicated in the face of the Country, and what a faithleſſe and malicious man Mr. <hi>Powell</hi> is, we leave to the conſideration of all <hi>honest men.</hi>
+            </p>
+            <p>Mr. <hi>Powells</hi> Proſecution againſt a poor <hi>Dyer</hi> of <hi>New Town</hi> is moſt freſh and notorious: This <hi>Dyer</hi> having (it is confeſſed li<g ref="char:EOLhyphen"/>ved wickedly with a <hi>lewd woman</hi> in that Town, but at laſt repen<g ref="char:EOLhyphen"/>ting his former courſes, was <hi>married</hi> to an <hi>honeſt woman,</hi> with whom be cohabited very lovingly; This <hi>Whore</hi> becomes one of Mr. <hi>Powell Congregation,</hi> and then challengeth a former marriage with the man: and Mr. <hi>Powell</hi> did ſo proſecute the Cauſe, that upon the bare evidence of the <hi>wicked woman</hi> the Dyer was convi<g ref="char:EOLhyphen"/>cted, <hi>burnt in the hand,</hi> and <hi>divorced</hi> from his <hi>honeſt wife,</hi> though it had been formerly proved before a <hi>Justice of the Peace</hi> that this
+<pb n="12" facs="tcp:166824:9"/>
+               <hi>lewd Woman lay that night</hi> (in which ſhe ſwore that ſhe was mar<g ref="char:EOLhyphen"/>ried to the <hi>Dyer,</hi>) with <hi>another Knave.</hi> The Judge did not well reliſh Mr. <hi>Powells</hi> earneſtneſſe for the <hi>Dyers</hi> execution, but repro<g ref="char:EOLhyphen"/>ved him for his incivility, and buſying himſelf with ſuch things as were <hi>excentrical</hi> to his <hi>profeſſion,</hi> and <hi>diſſonant</hi> to his <hi>Calling:</hi> But the truth is, he was herein, as he is in all other things ſo <hi>fragmati<g ref="char:EOLhyphen"/>cal</hi> and <hi>buſie,</hi> that not one <hi>Sute</hi> in <hi>Law,</hi> or any other <hi>difference</hi> in thoſe parts where he <hi>itinerates,</hi> paſſeth his <hi>Cognizance,</hi> ſiding with the one party or other.</p>
+            <p>I could tell you, How he would have undermined a <hi>poor Wid<g ref="char:EOLhyphen"/>dow</hi> in <hi>New Town</hi> (called <hi>Widdow Roſe</hi>) from her houſe, and dwelling, that he might be commodiouſly ſituated as <hi>Lord</hi> in the <hi>heart</hi> of the <hi>County,</hi> but that the goodneſſe of her <hi>Landlord,</hi> who would not conſent to his wicked motions, prevented his de<g ref="char:EOLhyphen"/>ſignes.</p>
+            <p>
+               <note place="margin">18 His Malig<g ref="char:EOLhyphen"/>nancy &amp; ſedition.</note>Laſtly, for his Malignancy, and ſeditious inciting of the people againſt all <hi>ſubordinate Magiſtracy</hi> here on Earth under the King of Kings Chriſt Jeſus, his inſufferable <hi>expreſſions</hi> for the ſupplanting and undermining thereof, is a cleer de<g ref="char:EOLhyphen"/>monſtration that he is the <hi>firebrand,</hi> and <hi>incendiary</hi> of the <hi>Whole Nation.</hi>
+            </p>
+            <p>At <hi>Llandynam</hi> he publickly delivered, That he knew not who <hi>were the Keepers</hi> of the <hi>Liberties of England,</hi> more than <hi>who were</hi> the <hi>Church of England,</hi> but that he conceived they were neither the <hi>Parliament,</hi> nor the <hi>Council of State,</hi> but rather the <hi>people;</hi> and it is his profeſſed opinion, That <hi>Magiſtrates,</hi> and ſpecially <hi>Commanders</hi> and <hi>Officers,</hi> have nothing to do, or intermeddle with Church government. As <hi>Ienkyn Iohn Howel</hi> (alias, Capt. <hi>Ienk: Iones</hi>) that great <hi>Clero-Mastix,</hi> or perſecutor of the <hi>Clergy,</hi> who is an Approver in the Act for the Propagation, and an <hi>Itinerant</hi> in the County of <hi>Brecknock,</hi> and hath at preſent <hi>ſixſcore Horſe,</hi> with <hi>Men, Arms,</hi> and <hi>Ammunition, liſted,</hi> and ready at his <hi>Command,</hi> preaching at the pariſh of <hi>Llandetty</hi> where he lives, upon a day ſet apart by the <hi>Parliament</hi> to thank God for the great victory obtai<g ref="char:EOLhyphen"/>ned againſt the <hi>Scots</hi> at <hi>Dunbar,</hi> told his hearers, <hi>That ſucceſsfull Warriers were not fit to reform, nor to medle with Religion, becauſe they were men of bloud; and this his doctrine he proved by the choice which God made of</hi> Solomon <hi>to build the Temple, and by his refuſal of</hi>
+               <pb n="13" facs="tcp:166824:9"/>
+David. This was his doctrine, but not a word of the Victory, nor any of the Victors.</p>
+            <p>What the <hi>aim</hi> of the <hi>holy man</hi> was, the <hi>declared Opinion</hi> of his <hi>friends</hi> (who I am ſure are men of the ſame <hi>Principles</hi>) concerning the <hi>preſent Government,</hi> hath now ſufficiently unfolded, by their numerous Congregatings and meetings in <hi>Wales,</hi> which requires ſpeedy prevention.</p>
+            <p>But Mr. <hi>Vavaſors</hi> unparallelled Raptures at <hi>Chriſt-Church</hi> and <hi>Black fryars</hi> in <hi>London,</hi>
+               <note place="margin">At <hi>Chriſt</hi>-Church, 18 Dec. 19 at <hi>Black-Fry<g ref="char:EOLhyphen"/>ars,</hi> 26 Dec. at <hi>Chriſt</hi>-Church</note> are evident and plain <hi>teſtimonies</hi> hereof: truly, no good Chriſtian could chuſe but be aſtoniſhed to hear ſo many <hi>ſacred places</hi> of <hi>Scripture</hi> miſerably wreſted upon his <hi>braſen Anvil,</hi> for to frame his <hi>Engine</hi> to level all <hi>Magiſtracy</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> down to the ground.</p>
+            <p>We will not rake up his whole <hi>Dunghil,</hi> but onely lightly touch what we have received by <hi>faithfull Information.</hi>
+            </p>
+            <p>He <hi>ſpared not His Highneſs the Lord Protectors Perſon, or Go<g ref="char:EOLhyphen"/>vernment.</hi>]</p>
+            <p>Mr. <hi>Vavaſor,</hi> Had you been a true <hi>Miniſter</hi> of <hi>Chriſt,</hi> and <hi>Pro<g ref="char:EOLhyphen"/>pagator</hi> of his <hi>Gospel,</hi> you would have learnt <hi>Chriſt</hi> far better. He teacheth you,<note place="margin">John 19.11. Act. 23.5. Ro. 13.1.5</note> 
+               <hi>That All Power is given from above;</hi> And the Apo<g ref="char:EOLhyphen"/>ſtle out of <hi>Moſes,</hi> That <hi>you ſhould not ſpeak evil of the Ruler of Gods people,</hi> But <hi>be ſubject unto the higher Powers, not only for wrath, but alſo for Conſcience ſake.</hi> You ſhould not have <hi>Curſed,</hi> but follow<g ref="char:EOLhyphen"/>ed St. <hi>Pauls Rule,</hi>
+               <note place="margin">Tim. 3.</note> Powred out <hi>ſupplications, and prayers, and have given thanks for him, That under him you might lead a quiet &amp; peace<g ref="char:EOLhyphen"/>able life, in all godlineſſe and honeſty.</hi> For I muſt tell you, if you had been but in <hi>Babylon,</hi> the <hi>Prophet Ieremiah</hi> would have taught you another Leſſon,<note place="margin">Jer, 29 7.</note> 
+               <hi>To pray for the peace of that City, for in the peace thereof ſhall ye have Peace.</hi>
+            </p>
+            <p>But you are the <hi>Diviner</hi> ſpoken of by that Prophet in the 8 <hi>ver.</hi>
+               <note place="margin">v. 8.9.</note>
+            </p>
+            <p>Who prophecy falſly to the people in the Lords name, whom he hath not ſent:</p>
+            <p>He ſaid, That <hi>many reigned now as Kings, without the adviſe of the Saints, but the Lord would bring them down again. And that this Power was not of God, and ſhould ſhortly and ſuddenly be deſtroyed;</hi> to prove this, he abuſed that place of Scripture, 1 <hi>Cor.</hi> 4.8. <hi>You reigned as Kings without us.</hi>
+            </p>
+            <p>Had you but truly weighed the <hi>Apoſtles</hi> drift, and meaning, in
+<pb n="14" facs="tcp:166824:10"/>
+thoſe words, you would not have ſo wreſted the words of <hi>Gods Spirit.</hi>
+            </p>
+            <p>But ſee the <hi>Iustice</hi> of God <hi>(dum vis eſſe praedo, fies praeda)</hi> while you would ſmite another, you <hi>ſtab your ſelf</hi> with your <hi>own weapon</hi> to the very heart. Let us both examine the <hi>Text.</hi> The <hi>Apoſtle</hi> in the 10th v. of the preceding Chapter ſpeaks to ſome <hi>Teachers,</hi>
+               <note place="margin">1 Cor. 3.10.</note> that <hi>Arrogated</hi> to themſelves to be <hi>Paſtors</hi> of <hi>Congregations,</hi> and ſeemed to <hi>ſucceed</hi> him, <hi>planting where others laboured:</hi> yet they ſhould not preſume after their <hi>own fancy,</hi> upon <hi>gold</hi> to ſuperſtruct <hi>hay,</hi> as you do, in your <hi>own Inventions, Prophetical raptures,</hi> and <hi>vain Re<g ref="char:EOLhyphen"/>velations.</hi>
+            </p>
+            <p>Obſerve moreover, how that in the Chapter which you cited, <hi>ver.</hi> 4. you are wiſhed <hi>not to be wiſe above that which is written;</hi> that is <hi>none ſhould</hi> by his own vain diſcourſes, as you do, <hi>adulterate the ſenſe of the Scriptures:</hi> For what <hi>Gifts</hi> you have, they are <hi>re<g ref="char:EOLhyphen"/>ceived,</hi>
+               <note place="margin">v. 7.</note> and it is <hi>God</hi> that makes you to <hi>differ.</hi> Then the Apoſtle doth indeed ſpeak <hi>Ironically</hi> concerning ſuch as you are, as though he had ſaid,<note place="margin">v. 8.</note> Though you <hi>Perſwade your ſelves,</hi> that you are in a <hi>happy condition,</hi> and want nothing of <hi>spiritual gifts,</hi> extolling <hi>your ſelves</hi> above the <hi>Miniſters of Chriſt, as Kings,</hi> they being <hi>impriſo<g ref="char:EOLhyphen"/>ned, despiſed,</hi> and ignominiouſly <hi>expoſed</hi> to <hi>Miſery</hi> and <hi>Scorn;</hi> yet what doth he in this, but tacitly and modeſtly reprove you? as the ſubſequent words will evince, <hi>I would to God ye did reign;</hi> that is, <hi>You think you reign,</hi> but it is only in <hi>outward ſhew,</hi> not <hi>truly</hi> and <hi>re<g ref="char:EOLhyphen"/>ally.</hi>
+            </p>
+            <p>Good Mr. <hi>Vavaſor,</hi> what <hi>Application</hi> can you make of this Text to this <hi>preſent Government?</hi>
+            </p>
+            <p>It is a <hi>Text</hi> that hints, and touches you to the quick. It is you that <hi>Reign</hi> as <hi>Kings,</hi> being full and rich, but the <hi>Hand-writing</hi> on the <hi>plaſter</hi> of the <hi>wall,</hi> hath now (we believe) changed your <hi>counte<g ref="char:EOLhyphen"/>nance,</hi> and troubled <hi>your thoughts.</hi> Let us intreat you to read that Scripture, <hi>Dan.</hi> 5.25, 26, 27. You have applyed this part of <hi>Gods word,</hi> as you did another place out of the prophecy of <hi>Iſaiah</hi> as un<g ref="char:EOLhyphen"/>happily framed and fitted for your own throat as the other was,<note place="margin">Iſa. 14.12.</note> 
+               <hi>How art thou fallen from heaven O Lucifer Son of the Morning?</hi> &amp;c. <hi>for thou haſt ſaid in thine heart,</hi> &amp;c. <hi>I will aſcend above the height of the Clouds, I will be like the most high,</hi> &amp;c.</p>
+            <p>We will be more modeſt, than to <hi>apply the Scripture</hi> according to your <hi>expoſition</hi> in the Pulpit.</p>
+            <p>
+               <pb n="15" facs="tcp:166824:10"/>But good Mr. <hi>Vavaſor,</hi> we ſhall apply the <hi>following verſe</hi> to your ſelf, <hi>Thou ſhalt be brought down to the ſides of the pit of your own miſtakes.</hi>
+            </p>
+            <p>The word <hi>Lucifer</hi> doth not (as you ſuppoſe, and as you explained to your Congregation there in <hi>Chriſt-Church</hi>) ſignifie the Devill, Though it be true of you according to the Proverb, <hi>Thou art as proud as Lucifer. Venus</hi> one of the Planets is called <hi>Lucifer</hi> or the <hi>Morning-ſtar,</hi> that brings on the daylight, we beſeech you to confer in the Original (becauſe you often <hi>boaſt</hi> of your <hi>ſeveral Languages</hi>) the 13th of this Prophet v. 10 with <hi>Iob</hi> 31, 26. And <hi>Chriſt</hi> our Saviour is alſo called the <hi>Morning-star,</hi> the <hi>Day-spring, Luc.</hi> 2.78. 2 <hi>Pet.</hi> 1.19. <hi>Rev.</hi> 2.28.</p>
+            <p>But we ſuppoſe ſcarce any of your <hi>Neoterick Expoſitors</hi> comment as you do, and few of the <hi>Fathers</hi> unleſſe by <hi>way</hi> of <hi>al<g ref="char:EOLhyphen"/>luſion.</hi>
+            </p>
+            <p>The true <hi>meaning</hi> is to repreſent the <hi>Conſpicuous eſtate</hi> of the <hi>Caldean King</hi> and Empire ſhining as <hi>bright</hi> as the <hi>day-ſtar</hi> in the <hi>skie.</hi> See <hi>Diodati,</hi> and the late <hi>Engli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h obſervation</hi> of <hi>your reading.</hi> But you ſaid then you would confirm that place with the like in <hi>Ti<g ref="char:EOLhyphen"/>mothy.</hi> I muſt tell you <hi>the Hue and Cry is almost ceaſed,</hi> and now we muſt take it up again. You are caught, you are caught, <hi>(Virus dum vomis ipſe vores)</hi> your place in <hi>Timothy</hi> is, 1 <hi>Tim. 3.6.</hi> We muſt have the Patience to read the words as you delivered them, with crying <hi>Victoria. Not a Novice, leſt being lifted up with pride he fall into the condemnation of the Devill.</hi> Your <hi>Comment</hi> was,<note place="margin">1 Tim. 3.6</note> that leſt he being lifted up with Pride, fall into the condemnation of the Devil. There you ſaid, the <hi>Effect</hi> is taken for the <hi>Cauſe, Con<g ref="char:EOLhyphen"/>demnation</hi> for <hi>Sin.</hi>
+            </p>
+            <p>So a Novice, and who is he? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one newly come to the Faith, not as yet well grounded, perhaps one <hi>Newly Baptized</hi> or newly entred into the firſt <hi>Elements</hi> and <hi>Principles</hi> of <hi>Divinity.</hi>
+            </p>
+            <p>What muſt ſuch a one not do?<note place="margin">v. 1.</note> 
+               <hi>He muſt not deſire the Office of a Biſhop.</hi>
+            </p>
+            <p>Then your Application of <hi>Lucifer</hi> in the words of <hi>Iſaiah</hi> muſt be this, That you who appeared as <hi>Lucifers,</hi> ſhining as bright as Day Stars in the Skies (ſeeing you are but <hi>Novices</hi> (not <hi>Milites Emeriti</hi>) neither well grounded (ſome of you not as yet <hi>Bapti<g ref="char:EOLhyphen"/>zed</hi>) nor going on to <hi>Perfection,</hi>
+               <note place="margin">Heb. 6.1.</note> having not as yet attained the
+<pb n="16" facs="tcp:166824:11"/>
+               <hi>Principles</hi> of the <hi>Doctrine</hi> of <hi>Chriſt,</hi> being advanced to that high degree that you have waxed proud, having obtained the office of <hi>Biſhops,</hi> and with <hi>Diotrephes</hi> treading under foot the <hi>Miniſters</hi> of <hi>Jeſus Chriſt,</hi> and being fallen into the ſame Condemnation of the <hi>Devil</hi> whereinto he was fallen, which was (as one very well ob<g ref="char:EOLhyphen"/>ſerves) the <hi>Calumniating of his Brethren,</hi> you and your Brethren worthily deſerve the name of <hi>Lucifers</hi> in your <hi>own ſenſe,</hi> being ſuch <hi>Novices</hi> by your own confirmation, and fallen into your <hi>Cu<g ref="char:EOLhyphen"/>ſtomary ſins</hi> the <hi>Calumniating</hi> and <hi>traducing</hi> of the <hi>true Miniſters</hi> of <hi>Chriſt Jeſus.</hi>
+            </p>
+            <p>
+               <note place="margin">Eſa. 14.15</note>That there is no queſtion but <hi>you ſhall be brought down to the ſide of the pit.</hi>
+            </p>
+            <p>
+               <note place="margin">Gideon</note>Your Example of <hi>Gideon</hi> for the diſcovery of Pride by the deſire of <hi>Rule</hi> and <hi>Dominion</hi> over others,<note place="margin">Jud. 8.22.</note> is altogether as <hi>impertinent</hi> as the former <hi>Texts</hi> were, whether you aymed at <hi>Perſons</hi> or <hi>Govern<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>You ſaid, <hi>Gideon was a good man, a great Commander, and ob<g ref="char:EOLhyphen"/>tained many victories agaiſnt the Enemies of God, he had many brave Sons,</hi> and <hi>much honored by the people, but they came not to be Colonels in a year.</hi> That the people of God would by all means make <hi>Gide<g ref="char:EOLhyphen"/>on</hi> King, <hi>Come rule thou over us, both thou and thy Son, and thy Sons Son alſo, for thou haſt delivered us from the hand of</hi> Midian.</p>
+            <p>But <hi>Gideon would not accept</hi> of the <hi>Government,</hi> he would not<note place="margin">v. 23</note> 
+               <hi>Rule over them, neither ſhould his Son Rule over them.</hi>
+            </p>
+            <p>Your Example herein cannot hold, becauſe he would not Rule, <hi>therefore others ſhould not.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Gideon</hi> did not refuſe the <hi>Government</hi> becauſe they deſired him, but because their deſire was not <hi>regulated</hi> by Gods <hi>Rule;</hi> they pre<g ref="char:EOLhyphen"/>ferred the <hi>Sword of Gideon</hi> before the <hi>Sword of the Lord,</hi> but the <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Sword of the Lord</hi> and the <hi>Sword of Gideon</hi> delivered them from the <hi>hands</hi> of <hi>Midian. Gideon</hi> refuſed their <hi>Election</hi> and <hi>Choice,</hi> be<g ref="char:EOLhyphen"/>cauſe it <hi>trenched</hi> upon the <hi>Prerogative Royall</hi> of the <hi>Lord,</hi> and the <hi>Choice</hi> of <hi>Gideon</hi> in their <hi>ſenſe</hi> was the <hi>Rejecting</hi> of the <hi>Lord.</hi>
+            </p>
+            <p>But Mr. <hi>Vavaſor</hi> you muſt obſerve that <hi>Judges</hi> were then raiſed by God in Commiſeration of the <hi>Affliction</hi> of his <hi>People,</hi> in an <hi>Ex<g ref="char:EOLhyphen"/>traordinary way,</hi> by the ſpecial motion of his <hi>Spirit,</hi> fitting them for ſome <hi>Particular ſervice,</hi> and that immediately, and in an <hi>in<g ref="char:EOLhyphen"/>ſtant</hi> to be put in <hi>Execution,</hi> but not for any <hi>ſetled Courſe</hi> of <hi>Go<g ref="char:EOLhyphen"/>vernment</hi>
+               <pb n="17" facs="tcp:166824:11"/>
+to be <hi>continued</hi> by <hi>Succeſſion,</hi> but as the <hi>State</hi> and <hi>Condi<g ref="char:EOLhyphen"/>tion</hi> of his people did <hi>require it,</hi> ſtill reſerving the <hi>Prerogative</hi> in <hi>himſelf,</hi> which was not to be intrenched upon, untill according to his <hi>promiſes</hi> a <hi>Choiſe</hi> and <hi>Succeſſion</hi> ſhould be <hi>Revealed</hi> unto them, which in its <hi>due time</hi> was <hi>accompliſhed.</hi>
+            </p>
+            <p>The aim of your Example is, That as <hi>Gideon</hi> refuſed to <hi>Rule,</hi> ſo you would have <hi>none others,</hi> but that <hi>All</hi> ſhould <hi>Reign as Kings,</hi> and <hi>Rule</hi> the <hi>Nation as Saints,</hi> whoſe <hi>inheritance the Earth is;</hi> but how far herein you diſhonour <hi>God,</hi> abuſe the <hi>Saints,</hi> debaſe and vilifie <hi>Chriſts Kingdom,</hi> and adulterate his <hi>bleſſed truth,</hi> God in his due time may reveal unto you, and inlighten your perverſe judgement. We are aſſured the Lord hath, and (doubt not) doth <hi>reign,</hi> where <hi>Kings</hi> or <hi>Protectors</hi> do <hi>rule</hi> and <hi>govern,</hi> the one be<g ref="char:EOLhyphen"/>ing not inconſiſtent (becauſe ſubordinate) to the other. Nay we know the Lord did promiſe the <hi>Iſraelites</hi> a <hi>King;</hi>
+               <note place="margin">Deut. 17 17 18 Gen. 17 6. Pro. 8.15 16. Rev. 6 15.</note> And to <hi>Abraham</hi> that <hi>Kings ſhould comes out of his loyns.</hi> And it is his <hi>Ordinance,</hi> that by him they <hi>ſhall reign, and Princes decree Juſtice.</hi>
+            </p>
+            <p>And his bleſſed <hi>Truth,</hi> contrary to your <hi>vain thoughts</hi> confirms, <hi>That Kings of the Earth, and great men, and rich men, and chief Captains, and mighty men, and bondmen, and freemen, ſhall con<g ref="char:EOLhyphen"/>tinue till the great day of the wrath of the Lord, which is the end of the World.</hi>
+            </p>
+            <p>Your Expreſſions concerning <hi>Gideons</hi> Sons ſavour more of your wonted <hi>virulency</hi> than of <hi>truth.</hi>
+               <note place="margin">Gideons Son</note>
+            </p>
+            <p>You ſaid that he had many <hi>brave Sons,</hi> and were much honoured by the People] How <hi>brave</hi> they were the Scripture doth not <hi>re<g ref="char:EOLhyphen"/>late;</hi> but we read that he had <hi>ſeventie</hi> by divers wives, and <hi>Abi<g ref="char:EOLhyphen"/>melech,</hi> (who ſlew them all but the youngeſt) by his <hi>Concubine.</hi> They could not be as yet <hi>very valiant,</hi> as plainly appears in the diſ<g ref="char:EOLhyphen"/>comfiture of rhe <hi>Midianites,</hi>
+               <note place="margin">Jud. 8, 20.</note> when <hi>Iether</hi> his firſt-born (being a very <hi>youth</hi>) was fearfull to <hi>draw his ſword</hi> to ſlay <hi>Zeba</hi> and <hi>Zalman<g ref="char:EOLhyphen"/>na.</hi> If <hi>Gideon</hi> had made any ſuch to be <hi>Collonels</hi> and <hi>Commanders,</hi> we ſhould not have commended his <hi>judgement:</hi> But that men of <hi>age, valour,</hi> and <hi>diſcretion</hi> (having hazarded their <hi>Lives</hi> and <hi>For<g ref="char:EOLhyphen"/>tunes</hi> both by <hi>Sea</hi> and <hi>Land</hi> in the Common <hi>ſervice</hi>) ſhould receive ſuch <hi>Military Titles</hi> and <hi>Commands</hi> as befits their <hi>Atchievments,</hi> is far leſſe <hi>honour</hi> than they <hi>deſerve,</hi> let them be whoſe <hi>Sons</hi> you pleaſe; and we will aſſure you far more <hi>congruous,</hi> than for <hi>Peter</hi> to draw
+<pb n="18" facs="tcp:166824:12"/>
+his <hi>ſword,</hi> and <hi>Miniſters</hi> for the <hi>Propagation,</hi> to preſume to be <hi>Collo<g ref="char:EOLhyphen"/>nels, Captains,</hi> and <hi>Commanders,</hi> whoſe <hi>valiant ſervice</hi> was none o<g ref="char:EOLhyphen"/>ther, but the <hi>rooting out</hi> of their deadly and profeſſed enemies (the formidable <hi>forlorn hope</hi> of the <hi>black coats</hi>) and gathering <hi>Tithes,</hi> ne<g ref="char:EOLhyphen"/>ver daring to look any other kind of <hi>enemy</hi> in the <hi>face.</hi>
+            </p>
+            <p>But we acknowledge our ſelves far <hi>unworthy</hi> to vindicate any mans <hi>honour</hi> and <hi>reputation.</hi>
+            </p>
+            <p>When you left <hi>Gideon,</hi> you fell upon his <hi>Sons parable</hi> (<hi>Judg.</hi> 9.9.) which ſpeaks of the Trees going forth to anoint a King over them,<note place="margin">
+                  <hi>Jotham</hi>'s parable, Judg. 9.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8, 9, 10, 11, 12, 13.</note> the <hi>Olive-Tree,</hi> the <hi>Fig Tree,</hi> and the <hi>Vine-Tree</hi> found their con<g ref="char:EOLhyphen"/>dition to be ſo good, that they would not <hi>Reign.</hi>
+            </p>
+            <p>But you ſaid you would not meddle with the <hi>Bramble.</hi>]</p>
+            <p>We commend you very much <hi>therein;</hi> for then you would have diſcovered your <hi>own nature</hi> and <hi>diſpoſition:</hi> But we will ſpare you that labour, and <hi>ſupply</hi> where you left.</p>
+            <p>The <hi>Bramble</hi> is a moſt fruitleſs, <hi>tearing ſhrub;</hi> fit for nothing, but the <hi>ſtopping</hi> of <hi>Gaps,</hi> and afterwards to be burned: And by the Para<g ref="char:EOLhyphen"/>ble of this <hi>Bramble, Jotham</hi> meant, proud and <hi>ambitious men,</hi> baſe in <hi>birth,</hi> wicked in <hi>life,</hi> barren in <hi>goodneſs,</hi> and cruel in <hi>nature;</hi> If you examine your <hi>heart,</hi> you will find the true <hi>Mythologie</hi> and moral of this Parable <hi>couched</hi> in your own <hi>breaſt.</hi>
+            </p>
+            <p>Concerning that place of <hi>Amos</hi> 6.13. <hi>Have we not taken to us Horns by our own ſtrenght?</hi> Certainly, either your <hi>Concordance</hi> fay<g ref="char:EOLhyphen"/>led you, or your <hi>quotations</hi> were falſe. For the <hi>Horns</hi> you meant, were in the 1 <hi>King.</hi> 22.11. you are the <hi>man,</hi> that with <hi>Zedekiah</hi> the ſon of <hi>Chenaanah</hi> have made you <hi>Horns</hi> of <hi>Iron,</hi> perſwading <hi>Ahab</hi> and <hi>Jehoſhaphat</hi> to war againſt <hi>Ramoth Gilead,</hi> that the <hi>valiant Soul<g ref="char:EOLhyphen"/>diers</hi> may conſume <hi>one another.</hi> Good Sir, let me intreat you to <hi>draw in your Horns,</hi> and when you puſh with them again, to think of your <hi>old friends,</hi> and <hi>acquaintance.</hi>
+            </p>
+            <p>Having only touched theſe places of Scriptures, which together with infinite others, he wreſted, and miſ-applyed, we ſhall proceed up<g ref="char:EOLhyphen"/>on his ſeditious and invective <hi>Accuſations.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> He abuſed the <hi>Honourable Council,</hi> and called their Proclamation <hi>A Libel.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> He baſely traduced, and vilified the <hi>Commanders, Officers,</hi> and <hi>Souldiers</hi> of the <hi>Army;</hi> nay, their <hi>wives</hi> and <hi>families</hi> eſcaped not <milestone type="tcpmilestone" unit="unspecified" n="J"/> the laſh of his <hi>Tongue.</hi> And told the <hi>Sword-men</hi> in general, That the
+<pb n="19" facs="tcp:166824:12"/>
+               <hi>Spirit of God</hi> was <hi>departed from them;</hi> that heretofore they had been precious and <hi>excellent men,</hi> but that their <hi>Parks,</hi> and <hi>new houſes,</hi> and <hi>gallant Wives,</hi> had choaked them up.]</p>
+            <p>VVell done, (Mr. <hi>Vavaſor</hi>) you plead well for <hi>them</hi> who ſpent ſo much <hi>bloud</hi> for your <hi>Liberties</hi> and <hi>Protection:</hi> I am ſure they de<g ref="char:EOLhyphen"/>ſerved a better <hi>Character</hi> at your hands, if they had not fought with more <hi>Courage</hi> than you did at <hi>Worceſter,</hi> you had ere this time loſt your <hi>life,</hi> aſwell as your man did then your <hi>money,</hi> by your baſe and Cowardly <hi>running away.</hi> If the <hi>Spirit</hi> of the <hi>Lord</hi> had forſaken them, the <hi>Cenſure</hi> was too uncharitable; but without doubt he <hi>went not from them to ſpeak unto you:</hi> And we believe you had wiſhed that your <hi>Fee'farm Rents, Propagation-moneyes, New houſe</hi> at <hi>Kerry,</hi>
+               <note place="margin">1 Kings 22, 24.</note> and a pint of Mrs. <hi>Quarrels</hi> hot <hi>waters</hi> had firſt choaked up your <hi>Rai<g ref="char:EOLhyphen"/>ling,</hi> before you had thus <hi>traduced</hi> their <hi>worth.</hi>
+            </p>
+            <p>That they had <hi>All revolted,</hi> and fallen <hi>from the Lord,</hi> and forſa<g ref="char:EOLhyphen"/>ken <milestone type="tcpmilestone" unit="unspecified" n="2"/> his people, who were left <hi>Fatherleſs;</hi> wiſhing them to repent of their <hi>perjury,</hi> againſt their former <hi>Declarations, Proteſtations, Re<g ref="char:EOLhyphen"/>monstrances, Promiſes,</hi> and <hi>Vowes,</hi> ſpecially at <hi>Tripolie Heath:</hi> And to return.]</p>
+            <p>But Mr. <hi>Vavaſor,</hi> You muſt conſider that all their <hi>Promiſes</hi> and <hi>Vowes</hi> included <hi>Conditions,</hi> and therefore might be <hi>diſobligated.</hi> Have you never learnt that <hi>Rule?</hi>
+            </p>
+            <p>That the <hi>Obligation ceaſeth</hi> when you have the <hi>Requeſt</hi> or <hi>Conſent</hi> of the <hi>moſt part</hi> of <hi>thoſe,</hi> for whoſe <hi>benefit</hi> you have <hi>obliged</hi> your ſelf.</p>
+            <p>If you had underſtood to whom their <hi>Promiſes</hi> had <hi>References,</hi> and for whoſe <hi>benefit</hi> they were undertaken, then you had acknowledged, that by <hi>Requeſt</hi> or <hi>Conſent,</hi> they might be (as they are) <hi>diſobligated</hi> without <hi>perjury.</hi> But you have vented here the <hi>ſeed</hi> of <hi>Sedition</hi> to the height, by <hi>endeavouring</hi> to convince their <hi>Conſciences</hi> as guilty of <hi>perjury,</hi> and ſo to ingage the <hi>Souldiers</hi> to imbrue their <hi>hands</hi> in their <hi>own bloud,</hi> by renting their <hi>unity,</hi> and denying their <hi>Obedience</hi> to their <hi>ſuperiour Officers</hi> and <hi>Commanders</hi> under the preſent <hi>Government</hi> and <hi>Protection.</hi>
+            </p>
+            <p>Could <hi>Abſolom</hi> have dealt more treacherouſly with <hi>David</hi> his <hi>Fa<g ref="char:EOLhyphen"/>ther?</hi> Or <hi>Nero</hi> more inhumanely, either in burning <hi>Rome,</hi> and tran<g ref="char:EOLhyphen"/>ſlating his <hi>wickedneſs</hi> upon the innocent <hi>Chriſtians?</hi> or in renting the <hi>bowels</hi> of his own dear <hi>Mother?</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:166824:13"/>They have more <hi>cauſe</hi> to Cry unto you for to <hi>Repent</hi> and <hi>Return.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> His <hi>Highneſs Chaplains,</hi> and great <hi>Vniverſity-men,</hi> who have (as he ſaid) had <hi>Thouſands a year</hi> to ſet up this <hi>New Government,</hi> ſhall not eſcape him.] Gentlemen, we know you not; but if you had any <hi>hand therein,</hi> we wiſh that your <hi>Thouſands</hi> were <hi>Millions</hi> unto you. Our Pen hath been too much dawbed in his <hi>filth,</hi> for to preſume either to <hi>vindicate</hi> your <hi>innocency,</hi> or ſet forth your <hi>goodneſs,</hi> (for certainly, if Mr. <hi>Vavaſor</hi> and his <hi>party</hi> had been ſuffered to go on in their <hi>evil Deſigns,</hi> they had ſoon deſtroyed both Magiſtracy and Mi<g ref="char:EOLhyphen"/>niſtery, who falſly pretending (as <hi>Saints triumphant</hi> on Earth) to Rule <hi>infallibly</hi> by a Divine and <hi>extraordinary right,</hi> would conſe<g ref="char:EOLhyphen"/>quently under that <hi>Notion</hi> claim right to <hi>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſeſſe</hi> all mens <hi>Properties,</hi> as well as <hi>Govern</hi> them, and judge none meet to <hi>publiſh</hi> the <hi>Goſpel,</hi> but ſuch as were <hi>principled</hi> in their <hi>wayes.</hi>) We underſtand you are <hi>ingenuous,</hi> and truly <hi>Godly Men,</hi> bred up in the <hi>Schools</hi> of the <hi>Prophets;</hi> God bleſſe your <hi>Endeavours</hi> in advancing <hi>Chriſt's spi<g ref="char:EOLhyphen"/>ritual Kingdom</hi> here on <hi>Earth,</hi> in reviving the <hi>dying ſtatutes</hi> of your <hi>Vniverſities</hi> to their <hi>former vigour,</hi> that the <hi>Arts</hi> and <hi>Scien<g ref="char:EOLhyphen"/>ces</hi> may <hi>flouriſh</hi> again in your <hi>Schools;</hi> And that both your Eyes may ſo Recover their former <hi>Perſpicuity</hi> to Continue ſuch <hi>Seminaries</hi> of <hi>Learning</hi> and <hi>Religion,</hi> as to furniſh this diſtreſſed Nation with <hi>golden Plants,</hi> that
+<q>
+                  <l>— Uno avulſo non deficit alter</l>
+                  <l>Aureus &amp; Ramus —</l>
+               </q>
+            </p>
+            <p>
+               <note place="margin">Eſay 34.14, 15.</note>One may ſtill bud out of the <hi>ſtem</hi> of the other; That theſe <hi>Sa<g ref="char:EOLhyphen"/>tyres</hi> may not cry to their fellows, nor the <hi>Scritch-Owls</hi> find a place of <hi>Reſt</hi> with us; That this great <hi>Owl</hi> may not make her <hi>neſt,</hi> and <hi>lay,</hi> and <hi>hatch,</hi> and gather her <hi>ſhadow</hi> among us any more: Bat that your bright <hi>Suns</hi> may deſcrie theſe <hi>Glow-Worms,</hi> and diſpel theſe. <hi>Bats,</hi> that they may gather into their <hi>Caves</hi> again.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> He cannot forget the <hi>Lawyers</hi> his ancient friends, ſaying, That <hi>the Iudges (thoſe Carnal Crue) were brought in by the Souldiers to ſet up this Government</hi>] will nothing ſerve your turn but ſtill to under<g ref="char:EOLhyphen"/>mine theſe <hi>Marble pillars</hi> of the <hi>Nation,</hi> they have been the Common <hi>mark</hi> of your <hi>Paſquils,</hi> and <hi>invectives</hi> ſince the <hi>Ejection</hi> of your Countrey <hi>Miniſters,</hi> that you may level the Law as well as the Goſ<g ref="char:EOLhyphen"/>pel. How often have you termed them <hi>Theeves</hi> and <hi>Pick-purſes,</hi> And that there was not paſt <hi>two honeſt Lawyers</hi> in the whole <hi>Nation,</hi>
+               <pb n="21" facs="tcp:166824:13"/>
+as you publiquely delivered in your Sermon at <hi>Llanſanfred</hi> in <hi>Radnor<g ref="char:EOLhyphen"/>ſhire?</hi> And do you not remember how in your Sermon, at the laſt great <hi>Seſſions</hi> held for the ſame <hi>County,</hi> when you had ſufficiently vilified their <hi>Perſons</hi> and <hi>Profeſſion,</hi> you deſired them not to imitate the <hi>Devil</hi> their Maſter who always at his departing made clean work and ſwept all away? certainly you think, that they are troubled with the ſame <hi>Devil,</hi> that <hi>haunted</hi> you about the <hi>Welch Pool,</hi> whereby <hi>distracted</hi> you were for a good while <hi>Mewed</hi> up in your Chambe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. We could wiſh you to be as <hi>charitable</hi> towards them, as they have been favourable towards you in your former indictments, and be<g ref="char:EOLhyphen"/>ſeech you to conſider with your ſelf, if you be left once again to the <hi>Mercy</hi> of the <hi>Law,</hi> as (we believe) you will, <hi>Up goes</hi> Mr. <hi>Vava<g ref="char:EOLhyphen"/>ſor.</hi> To conclude, <hi>He would pawn and hazard his life and his Mi<g ref="char:EOLhyphen"/>niſtery, That this Power ſhall ſuddenly be deſtroyed: And that this was revealed unto him, as the Diſſolution of the former Parliament.</hi>] for the pawning of your life, we think, as you have already forfeited it, ſo you are now weary enough of it, and believing that <hi>God hath numbred your Kingdom and finiſhed it:</hi> you mould gladly become one of <hi>Petilians Martyrs</hi> who canonized <hi>Iudas</hi> for a Saint,<note place="margin">Dan. 5 26</note> We know very well, you would rather have <hi>died</hi> gloriouſly in this <hi>City of Lon<g ref="char:EOLhyphen"/>don,</hi> than to be ignominiouſly picked into your own Country as you were. <hi>Parliament Ioan</hi> handled you more roughly in <hi>White-hall</hi> yard at your departure, <hi>Laying hold</hi> upon your <hi>skirts</hi> with termes befitting your ſpirit, That you may humbly <hi>ſupplicated</hi> to be reſcued from her <hi>Clawes.</hi>
+            </p>
+            <p>For the <hi>pawning</hi> of your Miniſtery, you may well expoſe that to the <hi>Broaker,</hi> which was never your own, unleſſe with the <hi>Aegypti<g ref="char:EOLhyphen"/>an whore (Potiphers Wife)</hi> you pawn poor <hi>Ioſephs</hi> garment, which he left in her hand to preſerve his own chaſtity, and fidelity to his Maſter.</p>
+            <p>But you ſay, That it was revealed unto you, That this Power ſhall ſuddenly be deſtroyed.] for that, We leave it to <hi>Gods gracious Providence</hi> and determination, For it is he that putteth down one, and ſetteth up another: But what manner of <hi>Prophet,</hi> and <hi>Diviner</hi> you are, may ſoon appear by theſe ſtrange <hi>predictions:</hi> You Prophe<g ref="char:EOLhyphen"/>ſied above two years paſt in your Sermons in <hi>Wales,</hi> That Tithes ſhould no more be paid, and above <hi>three years ago,</hi> That there ſhould never <hi>appear any Enemie</hi> more in the Land, And here in
+<pb n="22" facs="tcp:166824:14"/>
+               <hi>White-hall chapel</hi> you Propheſied with great confidence, That all the <hi>Statues</hi> in that <hi>Garden</hi> ſhould be ſhortly drawn down by publique Authority; And in all theſe (you muſt confeſſe) your <hi>Spi<g ref="char:EOLhyphen"/>rit</hi> hath fowly <hi>deceived</hi> you: but to ſatisfie all unbiaſed <hi>Iudges,</hi> I ſhall end with a <hi>ſtory</hi> of your own <hi>invention.</hi>
+            </p>
+            <p>When you were in ſome part of <hi>Worceſterſhire</hi> where ſome of the late <hi>Kings</hi> party lay in the <hi>field,</hi> You ſent a <hi>Meſſenger,</hi> over night, to give you intelligence of the event of the battle, and being informed before you went to bed, that they were <hi>diſcomſited,</hi> you wrote a Letter <hi>directed to your ſelf,</hi> diſcovering the truth, and manner of the fight, and delivered this Letter to <hi>your man,</hi> commanding him to take <hi>horſe the next morning,</hi> &amp; ride <hi>three</hi> or <hi>four miles</hi> from the place you quartered, and to return with ſpeed, and deliver the Letter unto you, as you came out of <hi>your Pulpit,</hi> being to preach there the next morning: In your <hi>Sermon</hi> you <hi>encouraged</hi> the People, aſſuring them, that it was <hi>revealed</hi> unto you that night, that the <hi>Enemie</hi> ſhould be <hi>deſtroyed:</hi> And wiſhed them never to believe that you were a <hi>Pro<g ref="char:EOLhyphen"/>phet ſent from the Lord,</hi> unleſſe they ſhould be very ſhortly certified thereof, nay you hoped, before you parted from that place; And true it was, Your <hi>Man</hi> met you at the <hi>Church-door,</hi> and delivered to you <hi>the Letter,</hi> being well <hi>inſtructed for the particulars</hi> thereof: I hope this <hi>wonderful prediction</hi> confirms that you have an <hi>illuminated Spirit:</hi> but herein was the <hi>Miſchance;</hi> Your man <hi>mistaking</hi> your own, took another <hi>Gentlemans Horſe,</hi> who being much abuſed (by the wretched Rider) <hi>diſcovered</hi> your <hi>cheat. Thus you are a fooliſh Prophet, like a Fox in a Deſert, you have ſeen a vain viſion, you have ſpoken lying Divinations, becauſe you have ſedused my people.</hi> Ezech. 13.3, 4, 7, 10.</p>
+            <p>And <hi>now,</hi> leſt that according to your <hi>wonted boaſtings</hi> (being re<g ref="char:EOLhyphen"/>turned to your <hi>Congregated,</hi> and <hi>Listed Troops in Wales</hi>) you ſhould <hi>triumph</hi> that you have gloriouſly paſt throughout all your troubles before his <hi>Highneſſe</hi> and <hi>his Council;</hi> As you thanked God in <hi>Chriſt-Church, That you eſcaped the bands of the Court Catch<g ref="char:EOLhyphen"/>poles</hi> (Terms little befitting <hi>The Councils Meſſengers,</hi> who deſer<g ref="char:EOLhyphen"/>ved far better at your hands, for your <hi>Civil and Free entertainment</hi>) We beſeech them to believe your own <hi>expreſſions,</hi> delivered after your firſt <hi>enlargement</hi> in the ſame <hi>Pulpit, That you were accounted by them but a frantick, fanatick, and mad man, poſſeſſed with an evil
+<pb n="23" facs="tcp:166824:14"/>
+Spirit, and under the power of darkneſſe:</hi> We muſt confeſſe you were not taken for any other kind of man among the <hi>ingenuous ſort</hi> of peo<g ref="char:EOLhyphen"/>ple in your own <hi>Nation:</hi> And it was the great <hi>Providence</hi> of God that he hath been pleaſed by your Carriage here in <hi>London,</hi> to diſco<g ref="char:EOLhyphen"/>ver to <hi>his Highneſſe the Lord Protector,</hi> and the <hi>Honourable Council,</hi> the Truth of your mad and malicious <hi>Spirit,</hi> whereby they may tru<g ref="char:EOLhyphen"/>ly underſtand the <hi>ſad condition</hi> of thoſe <hi>Miniſters,</hi> who have been <hi>ejected</hi> and <hi>perſecuted</hi> by your means, and of the <hi>ſeduced people</hi> who are <hi>over-ſwayed</hi> and <hi>miſ-guided</hi> by your turbulent and cruel <hi>dispoſiti<g ref="char:EOLhyphen"/>on,</hi> having ſuch <hi>influence</hi> upon all thoſe places of <hi>Wales,</hi> where you had any power, that there is not any one in <hi>Military, Civil,</hi> or <hi>Eccleſiaſtick Authority,</hi> or <hi>office,</hi> but ſuch as condeſcended to your principles.</p>
+            <p>But we know that we have long <hi>wearied</hi> you, with tracing the filth of this ſent: There is neither <hi>Pariſh</hi> nor <hi>place</hi> in <hi>Wales,</hi> nor in this <hi>ho<g ref="char:EOLhyphen"/>nourable City of London,</hi> but may be a <hi>Remembrancer</hi> either of his <hi>Er<g ref="char:EOLhyphen"/>rors,</hi> or <hi>Blaſphemies,</hi> or <hi>Obſcaenities,</hi> or <hi>Cruelties,</hi> or <hi>Oppreſſions,</hi> or <hi>Seditions,</hi> That we dare boldly ſay, <hi>He may be a true Parallel to the groſeſt Hereticks of old, And future Sharks ſhall be but as Apes to imitate his Villanies.</hi>
+            </p>
+            <p>And that you may have ſome <hi>intermixture</hi> of his <hi>Sweet mirth</hi> with his <hi>Sour paſſions,</hi> we ſhall endeavour to recompenſe your <hi>patience</hi> with a taſt of this <hi>Harmonious Hymn</hi> ſung in his <hi>Congregation</hi> at <hi>Chriſt-Church,</hi> together with an <hi>Antiphona</hi> anſwering thereunto, And ſo cloſe up all with a true <hi>diſcription</hi> of his <hi>Propagation in Wales.</hi>
+            </p>
+         </div>
+         <div type="hymn">
+            <pb n="24" facs="tcp:166824:15"/>
+            <head>18 Decemb. 1653. His Hymn at <hi>Chriſt-Church.</hi>
+            </head>
+            <lg>
+               <l>TO Chriſt <hi>our</hi> King, <hi>let us</hi> praiſe <hi>ſing,</hi>
+               </l>
+               <l>
+                  <hi>who is our</hi> Saviour <hi>dear,</hi>
+               </l>
+               <l>
+                  <hi>Who is our</hi> Protector, <hi>and our</hi> Rock,</l>
+               <l>
+                  <hi>who will</hi> come, <hi>and ſoon</hi> appear</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>To</hi> humble <hi>his, and</hi> try <hi>their</hi> hearts,</l>
+               <l>
+                  <hi>And make them</hi> clean <hi>and</hi> pure,</l>
+               <l>
+                  <hi>To ſet his</hi> Kingdom <hi>upon</hi> Earth,</l>
+               <l>
+                  <hi>Which ever ſhall</hi> endure:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>His</hi> Saints <hi>ſhall</hi> reign <hi>with him on</hi> Earth,</l>
+               <l>
+                  <hi>And</hi> great ones <hi>then ſhall</hi> bow,</l>
+               <l>
+                  <hi>The</hi> Battle, <hi>and the</hi> Battle-ax,</l>
+               <l>
+                  <hi>And</hi> men <hi>of</hi> War <hi>ſhall know</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>That he will</hi> ariſe, <hi>and he will</hi> rule,</l>
+               <l>
+                  <hi>And their</hi> power <hi>will</hi> fall,</l>
+               <l>
+                  <hi>And</hi> Chriſt <hi>our great</hi> Commander, <hi>He</hi>
+               </l>
+               <l>
+                  <hi>Shall be our</hi> General.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Haſt</hi> Lord, come <hi>quickly</hi> down,</l>
+               <l>
+                  <hi>Thy</hi> Saints, <hi>do</hi> wait, <hi>and</hi> pray,</l>
+               <l>
+                  <hi>And men would ſaign, if they knew how,</hi>
+               </l>
+               <l>
+                  <hi>Thy</hi> Prophets <hi>kill and ſlay:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But they ſhall</hi> live, <hi>and eke ſtand up,</hi>
+               </l>
+               <l>
+                  <hi>And give their</hi> Teſtimony</l>
+               <l>
+                  <hi>Againſt the</hi> Monarchs <hi>of the</hi> Earth,</l>
+               <l>
+                  <hi>That</hi> ſit, <hi>and</hi> reign <hi>on</hi> high.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <head>
+                  <hi>THe</hi> Antiphona <hi>thereunto.</hi>
+               </head>
+               <l>THe <hi>Devil's</hi> your <hi>King,</hi> his <hi>praiſe</hi> you ſing,</l>
+               <l>His <hi>Spirit</hi> leads you here,</l>
+               <l>Who is your <hi>Protector,</hi> and your <hi>Rock,</hi>
+               </l>
+               <l>And in <hi>You</hi> doth <hi>appear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis he <hi>exalts,</hi> and <hi>lifts your</hi> hearts,</l>
+               <l>To make you <hi>his</hi> moſt <hi>ſure,</hi>
+               </l>
+               <l>To ſet his <hi>Kingdom</hi> upon <hi>Earth,</hi>
+               </l>
+               <l>Which ſhall <hi>not long</hi> endure:</l>
+            </lg>
+            <lg>
+               <l>His <hi>Saints</hi> ſhall <hi>reign</hi> with him in <hi>Hell,</hi>
+               </l>
+               <l>And to him they ſhall <hi>bow,</hi>
+               </l>
+               <l>The <hi>Battle,</hi> and the <hi>Battle-ax,</hi>
+               </l>
+               <l>And men of <hi>war</hi> do know,</l>
+            </lg>
+            <lg>
+               <l>Though he <hi>be up,</hi> and his doth <hi>rule,</hi>
+               </l>
+               <l>Yet his <hi>Power</hi> will <hi>fall,</hi>
+               </l>
+               <l>Since <hi>Sathan</hi> your <hi>good Maſter,</hi> He</l>
+               <l>Is your great <hi>General.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Lord</hi> will <hi>come</hi> in his due time,</l>
+               <l>His <hi>Saints</hi> for to preſerve,</l>
+               <l>And all your <hi>lying Prophets</hi> ſlay,</l>
+               <l>Who from his Word do <hi>ſwerve.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>His <hi>Word</hi> shall <hi>ſtand,</hi> his <hi>Saints</hi> ſhall <hi>live</hi>
+               </l>
+               <l>To give their <hi>Teſtimony</hi>
+               </l>
+               <l>Againſt <hi>falſe Teachers</hi> of the Earth,</l>
+               <l>Who ſtrive to <hi>Reign</hi> on <hi>high.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="25" facs="tcp:166824:15"/>
+            <head>A true <hi>Deſcription</hi> of Mr. <hi>Vavaſor Pow<g ref="char:EOLhyphen"/>ells,</hi> and his <hi>Itinerants Propagati<g ref="char:EOLhyphen"/>on</hi> in <hi>Wales.</hi>
+            </head>
+            <lg>
+               <l>WHat? <hi>Propagation,</hi> and root out all,</l>
+               <l>Then if you pleaſe, her <hi>Extirpation</hi> call,</l>
+               <l>Like <hi>Lucifer,</hi> that's ſtil'd a <hi>Morning ſtar,</hi>
+               </l>
+               <l>And yet in <hi>Hel</hi>'s the blackeſt <hi>Fiend</hi> by far;</l>
+               <l>If then of her you'l have a true <hi>Relation,</hi>
+               </l>
+               <l>She's the <hi>Abaddon</hi> in the <hi>Revelation,</hi>
+               </l>
+               <l>That <hi>Apollyon,</hi> that all thing <hi>deſtroyes,</hi>
+               </l>
+               <l>That <hi>Epidemick Plague</hi> that Church annoyes;</l>
+               <l>That flaming <hi>Dragon,</hi> that did latel'aſſail,</l>
+               <l>To ſweep the Stars down with his fiery tail;</l>
+               <l>That <hi>Worm-wood</hi> that imbitters Sea and Springs,</l>
+               <l>And from the <hi>pit</hi> great <hi>Swarms of Locuſts</hi> brings:</l>
+               <l>She was the <hi>Church-Granado,</hi> tore, and rents,</l>
+               <l>Religion, Faith, Works, and the Sacraments;</l>
+               <l>That <hi>Indian Herican</hi> that fiercely tears</l>
+               <l>The Spouſes ſhip, while that to Heaven ſhe ſtears:</l>
+               <l>She talks of <hi>Chriſt,</hi> like <hi>Cheaters</hi> in a <hi>throng</hi>
+               </l>
+               <l>To <hi>pick</hi> mens <hi>purſes ſings</hi> a Godly <hi>Song;</hi>
+               </l>
+               <l>And <hi>Herod-like</hi> feigning t'adore the <hi>Babe,</hi>
+               </l>
+               <l>Through <hi>Church-mens</hi> ſides gives him a deadly ſtab:</l>
+               <l>Thus <hi>Religion</hi> prov'd to be <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Cloak</hi>
+               </l>
+               <l>Vnder whoſe ſhrowd thouſands of <hi>Frogs</hi> did croak,</l>
+               <l>
+                  <pb n="26" facs="tcp:166824:16"/>With <hi>Jeroboams Prieſts</hi> they fill'd their hand,</l>
+               <l>And then like <hi>Pharaohs</hi> plagues infect the land:</l>
+               <l>
+                  <hi>Jeruſalem</hi> and <hi>Sions</hi> glory razes,</l>
+               <l>Mounts <hi>Calves</hi> at <hi>Dan,</hi> and <hi>Bethels</hi> higher places,</l>
+               <l>Which bellow'd like an <hi>Amſterdamian Bull</hi>
+               </l>
+               <l>
+                  <hi>Nonſence</hi> and <hi>Blaſphemy</hi> whole <hi>Pulpi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> full.</l>
+               <l>Perhaps you'l itch to know the <hi>ſtock</hi> and <hi>root</hi>
+               </l>
+               <l>From whence theſe <hi>Branches</hi> of <hi>Propagation ſhoot:</hi>
+               </l>
+               <l>Th'are hatcht in <hi>Hel, Be'lzebub</hi> is their Sire,</l>
+               <l>
+                  <hi>Atheiſm</hi> their <hi>Mother, Nurſe</hi> infernal fire:</l>
+               <l>Their <hi>Offſprings</hi> are <hi>Schiſms, Sects,</hi> and <hi>Hereſie,</hi>
+               </l>
+               <l>
+                  <hi>Deſtruction, Sacrilege,</hi> and <hi>Symony;</hi>
+               </l>
+               <l>Their <hi>Maid Hypocriſie,</hi> her daily <hi>dreſſes,</hi>
+               </l>
+               <l>
+                  <hi>Shews of Godlineſs,</hi> and ſuch like <hi>treſſes,</hi>
+               </l>
+               <l>Which ſhe from <hi>Sathans Wardrope</hi> ſtole by night,</l>
+               <l>While they do Act <hi>good Angels</hi> parts of <hi>light:</hi>
+               </l>
+               <l>Theſe <hi>Frogs</hi> and <hi>Locuſts</hi> wait upon her train,</l>
+               <l>By ſacred <hi>Ruines</hi> thinking all to gain;</l>
+               <l>And hoping when <hi>Chriſts-Doves</hi> were diſpoſſeſt,</l>
+               <l>
+                  <hi>Scritch-Owles,</hi> and <hi>Zim,</hi> and <hi>Jim</hi> might build their neſt:</l>
+               <l>They Cry'd down learned <hi>Athens,</hi> and that light,</l>
+               <l>That did deſtroy their <hi>Gloe-worms</hi> in the night,</l>
+               <l>While her bright <hi>Suns</hi> did gliſter in the <hi>Sky</hi>
+               </l>
+               <l>Their <hi>Bats</hi> and <hi>Owls</hi> abroad durſt never fly:</l>
+               <l>The Devil at <hi>Delphos</hi> was ſtruck dumb for fear,</l>
+               <l>Til <hi>Babilas</hi> his bones away they bear.</l>
+               <l>
+                  <hi>Great</hi> is <hi>Diana,</hi> 'tis the Silver <hi>ſhrines,</hi>
+               </l>
+               <l>That made them dig ſo deep in <hi>Churches</hi> Mines,</l>
+               <l>The firſt fool <hi>Wales,</hi> telling them a ſtory,</l>
+               <l>That plundring <hi>God,</hi> makes moſt for his Glory:</l>
+               <l>No tithes, no gleabs, no offrings needeth he,</l>
+               <l>Without a Prieſt, <hi>All taught of him ſhall be.</hi>
+               </l>
+               <l>
+                  <pb n="27" facs="tcp:166824:16"/>Thus many were ſeduc'd with this <hi>falſe glaſſe,</hi>
+               </l>
+               <l>And made to couch like <hi>Iſſachars Aſſe</hi>
+               </l>
+               <l>To any burthen: that ſpake <hi>libertie,</hi>
+               </l>
+               <l>Though in effect Souls-murthering ſlavery.</l>
+               <l>Former Monopolies went by retale,</l>
+               <l>The Church and Church men ſhe vends by whole ſale.</l>
+               <l>
+                  <hi>Empſon</hi> and <hi>Dudleys</hi> projects were but toys,</l>
+               <l>
+                  <hi>Cranfield</hi> and <hi>Ingram</hi> only made a noiſe,</l>
+               <l>
+                  <hi>Micha'l Mumpeſſon</hi> ſoar'd and had a fall,</l>
+               <l>But Propagation robs our God of all.</l>
+               <l>And thus by colour of this <hi>Act</hi> of <hi>Grace,</hi>
+               </l>
+               <l>All <hi>Rights</hi> of <hi>Church</hi> and <hi>State</hi> they did deface.</l>
+               <l>But ſhe's expir'd; a boon me thinks you crave,</l>
+               <l>To grant her decent burial, and a grave.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <head>Her <hi>EPITAPH.</hi>
+               </head>
+               <l>
+                  <hi>HEre</hi> Propagation <hi>lies, that did aſpire,</hi>
+               </l>
+               <l>
+                  <hi>Like</hi> Phaeton <hi>to ſet the World on</hi> fire,</l>
+               <l>
+                  <hi>Cry'd down</hi> Order, <hi>and</hi> Miniſterial Call,</l>
+               <l>
+                  <hi>And thought to give this</hi> Government <hi>a fall:</hi>
+               </l>
+               <l>
+                  <hi>She would have cauſ'd the</hi> Gentry <hi>flock in Swarms;</hi>
+               </l>
+               <l>
+                  <hi>To beg relief like</hi> Cripples <hi>without</hi> Armes;</l>
+               <l>
+                  <hi>And would have made the learned</hi> Lawyers <hi>plead,</hi>
+               </l>
+               <l>
+                  <hi>From door to door (poor Souls) for Cruſts of Bread.</hi>
+               </l>
+               <l>
+                  <hi>Lament</hi> Itinerants! <hi>this Trade is gone,</hi>
+               </l>
+               <l>
+                  <hi>Take up your</hi> Tools, <hi>and</hi> Occupation;</l>
+               <l>
+                  <hi>Silence in Churches; you have long forgot</hi>
+               </l>
+               <l>
+                  <hi>Your firſt callings, inheritance and lot.</hi>
+               </l>
+            </lg>
+            <p>
+               <pb n="28" facs="tcp:166824:17"/>And (Gentle Reader) becauſe you ſhall not think that ſome <hi>Itinerants</hi> who lately dyed wanted Epitaphs, we ſhall intreat you to peruſe one, which a dear friend be<g ref="char:EOLhyphen"/>ſtowed upon Mr. <hi>L.</hi> who lately dyed, and was interred in the City of <hi>Hereford.</hi>
+            </p>
+            <q>
+               <lg>
+                  <head>In Perpetuam Magiſtri <hi>L:</hi> Itinerantis Memoriam</head>
+                  <l>
+                     <hi>QVi Sermonavit vivus<note n="*" place="margin">i. e. ex tempore.</note> ſine think, ſine thanko,</hi>
+                  </l>
+                  <l>
+                     <hi>Mortuus in foveam jacitur<note n="*" place="margin">i. e. ſine tintinnabu<g ref="char:EOLunhyphen"/>lis.</note>, ſine clink, ſine clanko</hi>
+                  </l>
+               </lg>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2. Sam 17.23.</hi>
+               </bibl> And when <hi>Ahithophel</hi> ſaw that his coun<g ref="char:EOLhyphen"/>ſel was not followed, he ſadled his aſſe, and aroſe, andgat him home to his houſe, to his City, and put his houſhold in order, and hanged himſelf, and died, and was buried in the Sepulchre of his Father.</q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
